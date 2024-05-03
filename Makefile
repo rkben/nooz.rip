@@ -1,3 +1,6 @@
+install:
+	poetry install
+
 run:
 	poetry run python app/run.py
 
