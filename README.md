@@ -1,6 +1,13 @@
 # nooz.rip
 A nooz aggregator and reader.
 
+## Up Next
+- [ ] Read all the feeds!!!!
+- [ ] Decent keyword handling via [NER](https://en.wikipedia.org/wiki/Named-entity_recognition) and [spacy](https://spacy.io/)
+- [ ] Rewrite [trafilatura](https://trafilatura.readthedocs.io/en/latest/)
+- [ ] Input bar for URLs
+- [ ] Bookmarklet because 2 people still use them 
+
 ## Usage
 - `make install` or `poetry install`
 - `make run` or `poetry run python app/run.py`
