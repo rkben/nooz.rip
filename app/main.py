@@ -1,3 +1,4 @@
+from contextlib import asynccontextmanager
 from pathlib import Path
 
 from fastapi import FastAPI, Request
@@ -6,17 +7,28 @@ from fastapi.responses import FileResponse, HTMLResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
 from loguru import logger
-from tortoise.contrib.fastapi import register_tortoise
+from tortoise.contrib.fastapi import RegisterTortoise
 
 from lib import article, schema
 from settings import settings
 
 current_dir = Path(__file__).parent
-data_dir = (current_dir.parent / "data")
+data_dir = current_dir.parent / "data"
 templates = Jinja2Templates(directory=str(current_dir / "templates"))
 
 
-app = FastAPI()
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    async with RegisterTortoise(
+        app,
+        db_url="sqlite://{}".format(str(data_dir / settings.DB)),
+        modules={"models": ["lib.schema"]},
+        generate_schemas=True,
+        add_exception_handlers=True,
+    ):
+        yield
+
+app = FastAPI(title="nooz.rip", lifespan=lifespan)
 app.mount("/static", StaticFiles(directory=str(current_dir / "static")), name="static")
 
 if settings.DEBUG:
@@ -30,13 +42,6 @@ if settings.DEBUG:
     )
     logger.info("CORS WILDCARD ENABLED")
 
-register_tortoise(
-    app,
-    db_url="sqlite://{}".format(str(data_dir / settings.DB)),
-    modules={"models": ["lib.schema"]},
-    generate_schemas=True,
-    add_exception_handlers=True,
-)
 
 
 @app.get("/favicon.ico")
