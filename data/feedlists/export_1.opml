@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>Sage OPML Export</title>
+	</head>
+	<body>
+		<outline text="Sage Feeds">
+			<outline type="rss" text="Mozilla Update::Newest Extensions" title="Mozilla Update::Newest Extensions" xmlUrl="https://addons.update.mozilla.org/rss/?application=firefox&amp;type=E&amp;list=newest"/>
+			<outline type="rss" text="Sage Project News" title="Sage Project News" xmlUrl="http://sage.mozdev.org/rss.xml"/>
+			<outline text="News">
+				<outline text="Yahoo! News">
+					<outline type="rss" text="Yahoo! News: Top Stories" title="Yahoo! News: Top Stories" xmlUrl="http://rss.news.yahoo.com/rss/topstories"/>
+					<outline type="rss" text="Yahoo! News: U.S. National" title="Yahoo! News: U.S. National" xmlUrl="http://rss.news.yahoo.com/rss/us"/>
+					<outline type="rss" text="Yahoo! News: World News" title="Yahoo! News: World News" xmlUrl="http://rss.news.yahoo.com/rss/world"/>
+					<outline type="rss" text="Yahoo! News: Business" title="Yahoo! News: Business" xmlUrl="http://rss.news.yahoo.com/rss/business"/>
+					<outline type="rss" text="Yahoo! News: Technology News" title="Yahoo! News: Technology News" xmlUrl="http://rss.news.yahoo.com/rss/tech"/>
+					<outline type="rss" text="Yahoo! News: Most Emailed" title="Yahoo! News: Most Emailed" xmlUrl="http://rss.news.yahoo.com/rss/mostemailed"/>
+					<outline type="rss" text="Yahoo! News: Most Viewed" title="Yahoo! News: Most Viewed" xmlUrl="http://rss.news.yahoo.com/rss/mostviewed"/>
+					<outline type="rss" text="Yahoo! News: Most Recommended" title="Yahoo! News: Most Recommended" xmlUrl="http://rss.news.yahoo.com/rss/highestrated"/>
+					<outline type="rss" text="Yahoo! News: Odd News" title="Yahoo! News: Odd News" xmlUrl="http://rss.news.yahoo.com/rss/oddlyenough"/>
+					<outline type="rss" text="Yahoo! News: Business - European Economy" title="Yahoo! News: Business - European Economy" xmlUrl="http://rss.news.yahoo.com/rss/eurobiz"/>
+					<outline type="rss" text="Yahoo! News: Personal Finance News" title="Yahoo! News: Personal Finance News" xmlUrl="http://rss.news.yahoo.com/rss/personalfinance"/>
+				</outline>
+				<outline text="MSNBC">
+					<outline type="rss" text="MSNBC.com: U.S. News" title="MSNBC.com: U.S. News" xmlUrl="http://rss.msnbc.msn.com/id/3032524/device/rss/rss.xml"/>
+					<outline type="rss" text="MSNBC.com: TOP MSNBC HEADLINES" title="MSNBC.com: TOP MSNBC HEADLINES" xmlUrl="http://rss.msnbc.msn.com/id/3032091/device/rss/rss.xml"/>
+					<outline type="rss" text="MSNBC.com: World News" title="MSNBC.com: World News" xmlUrl="http://rss.msnbc.msn.com/id/3032506/device/rss/rss.xml"/>
+					<outline type="rss" text="MSNBC.com: Politics" title="MSNBC.com: Politics" xmlUrl="http://rss.msnbc.msn.com/id/3032552/device/rss/rss.xml"/>
+					<outline type="rss" text="MSNBC.com: Business" title="MSNBC.com: Business" xmlUrl="http://rss.msnbc.msn.com/id/3032071/device/rss/rss.xml"/>
+					<outline type="rss" text="MSNBC.com: Entertainment" title="MSNBC.com: Entertainment" xmlUrl="http://rss.msnbc.msn.com/id/3032083/device/rss/rss.xml"/>
+					<outline type="rss" text="MSNBC.com: Health" title="MSNBC.com: Health" xmlUrl="http://rss.msnbc.msn.com/id/3088327/device/rss/rss.xml"/>
+				</outline>
+				<outline text="Fox News">
+					<outline type="rss" text="FOXNews.com - U.S. &amp; World" title="FOXNews.com - U.S. &amp; World" xmlUrl="http://www.foxnews.com/xmlfeed/rss/0,4313,1,00.rss"/>
+					<outline type="rss" text="FOXNews.com - Politics" title="FOXNews.com - Politics" xmlUrl="http://www.foxnews.com/xmlfeed/rss/0,4313,2,00.rss"/>
+					<outline type="rss" text="FOXNews.com - Business" title="FOXNews.com - Business" xmlUrl="http://www.foxnews.com/xmlfeed/rss/0,4313,3,00.rss"/>
+					<outline type="rss" text="FOXNews.com - Health" title="FOXNews.com - Health" xmlUrl="http://www.foxnews.com/xmlfeed/rss/0,4313,69,00.rss"/>
+					<outline type="rss" text="FOXNews.com - Views" title="FOXNews.com - Views" xmlUrl="http://www.foxnews.com/xmlfeed/rss/0,4313,5,00.rss"/>
+				</outline>
+				<outline text="CNN">
+					<outline type="rss" text="CNN.com - Most Popular" title="CNN.com - Most Popular" xmlUrl="http://rss.cnn.com/rss/cnn_mostpopular.rss"/>
+					<outline type="rss" text="CNN.com" title="CNN.com" xmlUrl="http://rss.cnn.com/rss/cnn_topstories.rss"/>
+					<outline type="rss" text="CNN.com - World" title="CNN.com - World" xmlUrl="http://rss.cnn.com/rss/cnn_world.rss"/>
+					<outline type="rss" text="CNN.com - U.S." title="CNN.com - U.S." xmlUrl="http://rss.cnn.com/rss/cnn_us.rss"/>
+					<outline type="rss" text="CNN.com - Politics" title="CNN.com - Politics" xmlUrl="http://rss.cnn.com/rss/cnn_allpolitics.rss"/>
+					<outline type="rss" text="CNN.com - Law" title="CNN.com - Law" xmlUrl="http://rss.cnn.com/rss/cnn_law.rss"/>
+					<outline type="rss" text="CNN.com - Technology" title="CNN.com - Technology" xmlUrl="http://rss.cnn.com/rss/cnn_tech.rss"/>
+					<outline type="rss" text="CNN.com - Travel" title="CNN.com - Travel" xmlUrl="http://rss.cnn.com/rss/cnn_travel.rss"/>
+				</outline>
+				<outline text="BBC">
+					<outline type="rss" text="BBC News | News Front Page | World Edition" title="BBC News | News Front Page | World Edition" xmlUrl="http://news.bbc.co.uk/rss/newsonline_world_edition/front_page/rss091.xml"/>
+					<outline type="rss" text="BBC News | News Front Page | World Edition" title="BBC News | News Front Page | World Edition" xmlUrl="http://news.bbc.co.uk/rss/newsonline_world_edition/front_page/rss091.xml"/>
+					<outline type="rss" text="BBC News | Europe | World Edition" title="BBC News | Europe | World Edition" xmlUrl="http://news.bbc.co.uk/rss/newsonline_world_edition/europe/rss091.xml"/>
+					<outline type="rss" text="BBC News | Business | World Edition" title="BBC News | Business | World Edition" xmlUrl="http://news.bbc.co.uk/rss/newsonline_world_edition/business/rss091.xml"/>
+					<outline type="rss" text="BBC News | Technology | World Edition" title="BBC News | Technology | World Edition" xmlUrl="http://news.bbc.co.uk/rss/newsonline_world_edition/technology/rss091.xml"/>
+				</outline>
+				<outline text="El Mundo">
+					<outline type="rss" text="elmundo.es" title="elmundo.es" xmlUrl="http://rss.elmundo.es/rss/descarga.htm?data1=5175&amp;data2=1&amp;data3=68596d5cf567dfc3c855a8bceda054e6"/>
+					<outline type="rss" text="elmundo.es" title="elmundo.es" xmlUrl="http://rss.elmundo.es/rss/descarga.htm?data1=5175&amp;data2=2&amp;data3=b08e5b2cff3362a9403e0ba21e6f3581"/>
+				</outline>
+				<outline text="CNET">
+					<outline type="rss" text="CNET News.com" title="CNET News.com" xmlUrl="http://news.com.com/2547-1_3-0-5.xml"/>
+				</outline>
+			</outline>
+			<outline text="Sports">
+				<outline text="Yahoo! Sports">
+					<outline type="rss" text="Yahoo! News: Sports News" title="Yahoo! News: Sports News" xmlUrl="http://rss.news.yahoo.com/rss/sports"/>
+					<outline type="rss" text="Yahoo! Sports - NCAA Football News" title="Yahoo! Sports - NCAA Football News" xmlUrl="http://sports.yahoo.com/ncaaf/rss.xml"/>
+					<outline type="rss" text="Yahoo! Sports - NFL News" title="Yahoo! Sports - NFL News" xmlUrl="http://sports.yahoo.com/nfl/rss.xml"/>
+					<outline type="rss" text="Yahoo! Sports - NBA News" title="Yahoo! Sports - NBA News" xmlUrl="http://sports.yahoo.com/nba/rss.xml"/>
+					<outline type="rss" text="Yahoo! Sports - NCAA Men's Basketball News" title="Yahoo! Sports - NCAA Men's Basketball News" xmlUrl="http://sports.yahoo.com/ncaab/rss.xml"/>
+					<outline type="rss" text="Yahoo! Sports - World Soccer News" title="Yahoo! Sports - World Soccer News" xmlUrl="http://sports.yahoo.com/sow/rss.xml"/>
+				</outline>
+				<outline text="ESPN">
+					<outline text="Columnists">
+						<outline type="rss" text="ESPN.com - Bill Simmons Columns" title="ESPN.com - Bill Simmons Columns" xmlUrl="http://sports.espn.go.com/espn/rss/columnist?name=simmons_bill"/>
+						<outline text="NFL">
+							<outline type="rss" text="ESPN.com - John Clayton Columns" title="ESPN.com - John Clayton Columns" xmlUrl="http://sports.espn.go.com/espn/rss/columnist?name=clayton_john"/>
+							<outline type="rss" text="ESPN.com - Ron Jaworski Columns" title="ESPN.com - Ron Jaworski Columns" xmlUrl="http://sports.espn.go.com/espn/rss/columnist?name=jaworski_ron"/>
+							<outline type="rss" text="ESPN.com - Len Pasquarelli Columns" title="ESPN.com - Len Pasquarelli Columns" xmlUrl="http://sports.espn.go.com/espn/rss/columnist?name=pasquarelli_len"/>
+							<outline type="rss" text="ESPN.com - Sean Salisbury Columns" title="ESPN.com - Sean Salisbury Columns" xmlUrl="http://sports.espn.go.com/espn/rss/columnist?name=salisbury_sean"/>
+							<outline type="rss" text="ESPN.com - Joe Theismann Columns" title="ESPN.com - Joe Theismann Columns" xmlUrl="http://sports.espn.go.com/espn/rss/columnist?name=theismann_joe"/>
+						</outline>
+						<outline text="MLB">
+							<outline type="rss" text="ESPN.com - Peter Gammons Columns" title="ESPN.com - Peter Gammons Columns" xmlUrl="http://sports.espn.go.com/espn/rss/columnist?name=gammons_peter"/>
+							<outline type="rss" text="ESPN.com - Rob Neyer Columns" title="ESPN.com - Rob Neyer Columns" xmlUrl="http://sports.espn.go.com/espn/rss/columnist?name=neyer_rob"/>
+							<outline type="rss" text="ESPN.com - Jerry Crasnick Columns" title="ESPN.com - Jerry Crasnick Columns" xmlUrl="http://sports.espn.go.com/espn/rss/columnist?name=crasnick_jerry"/>
+							<outline type="rss" text="ESPN.com - Tim Kurkjian Columns" title="ESPN.com - Tim Kurkjian Columns" xmlUrl="http://sports.espn.go.com/espn/rss/columnist?name=kurkjian_tim"/>
+							<outline type="rss" text="ESPN.com - Buster Olney Columns" title="ESPN.com - Buster Olney Columns" xmlUrl="http://sports.espn.go.com/espn/rss/columnist?name=olney_buster"/>
+							<outline type="rss" text="ESPN.com - Jayson Stark Columns" title="ESPN.com - Jayson Stark Columns" xmlUrl="http://sports.espn.go.com/espn/rss/columnist?name=stark_jayson"/>
+						</outline>
+						<outline text="NCAA Football">
+							<outline type="rss" text="ESPN.com - Beano Cook Columns" title="ESPN.com - Beano Cook Columns" xmlUrl="http://sports.espn.go.com/espn/rss/columnist?name=cook_beano"/>
+							<outline type="rss" text="ESPN.com - Bill Curry Columns" title="ESPN.com - Bill Curry Columns" xmlUrl="http://sports.espn.go.com/espn/rss/columnist?name=curry_bill"/>
+							<outline type="rss" text="ESPN.com - Bob Davie Columns" title="ESPN.com - Bob Davie Columns" xmlUrl="http://sports.espn.go.com/espn/rss/columnist?name=davie_bob"/>
+							<outline type="rss" text="ESPN.com - Chris Fowler Columns" title="ESPN.com - Chris Fowler Columns" xmlUrl="http://sports.espn.go.com/espn/rss/columnist?name=fowler_chris"/>
+							<outline type="rss" text="ESPN.com - Rod Gilmore Columns" title="ESPN.com - Rod Gilmore Columns" xmlUrl="http://sports.espn.go.com/espn/rss/columnist?name=gilmore_rod"/>
+							<outline type="rss" text="ESPN.com - Kirk Herbstreit Columns" title="ESPN.com - Kirk Herbstreit Columns" xmlUrl="http://sports.espn.go.com/espn/rss/columnist?name=herbstreit_kirk"/>
+							<outline type="rss" text="ESPN.com - Kiper Jr Mel Columns" title="ESPN.com - Kiper Jr Mel Columns" xmlUrl="http://sports.espn.go.com/espn/rss/columnist?name=kiper_jr_mel"/>
+							<outline type="rss" text="ESPN.com - Ivan Maisel Columns" title="ESPN.com - Ivan Maisel Columns" xmlUrl="http://sports.espn.go.com/espn/rss/columnist?name=maisel_ivan"/>
+							<outline type="rss" text="ESPN.com - Gene Wojciechowski Columns" title="ESPN.com - Gene Wojciechowski Columns" xmlUrl="http://sports.espn.go.com/espn/rss/columnist?name=wojciechowski_gene"/>
+						</outline>
+					</outline>
+					<outline type="rss" text="ESPN.com" title="ESPN.com" xmlUrl="http://sports.espn.go.com/espn/rss/news"/>
+					<outline type="rss" text="ESPN.com - MLB" title="ESPN.com - MLB" xmlUrl="http://sports.espn.go.com/espn/rss/mlb/news"/>
+					<outline type="rss" text="ESPN.com - College Football" title="ESPN.com - College Football" xmlUrl="http://sports.espn.go.com/espn/rss/ncf/news"/>
+					<outline type="rss" text="ESPN.com - NFL" title="ESPN.com - NFL" xmlUrl="http://sports.espn.go.com/espn/rss/nfl/news"/>
+					<outline type="rss" text="ESPN.com - NBA" title="ESPN.com - NBA" xmlUrl="http://sports.espn.go.com/espn/rss/nba/news"/>
+					<outline type="rss" text="Soccernet.com" title="Soccernet.com" xmlUrl="http://soccernet.espn.go.com/rss/news"/>
+					<outline type="rss" text="Soccernet.com UCL" title="Soccernet.com UCL" xmlUrl="http://soccernet.espn.go.com/rss/news?section=uefachampionsleague"/>
+					<outline type="rss" text="Soccernet.com EUROPE" title="Soccernet.com EUROPE" xmlUrl="http://soccernet.espn.go.com/rss/news?section=europe"/>
+				</outline>
+				<outline text="ND Blogs">
+					<outline type="rss" text="The Irish Condo" title="The Irish Condo" xmlUrl="http://irishcondo.blogspot.com/atom.xml"/>
+					<outline type="rss" text="Kelly Green" title="Kelly Green" xmlUrl="http://kgreen.blogspot.com/atom.xml"/>
+					<outline type="rss" text="The Blue-Gray Sky" title="The Blue-Gray Sky" xmlUrl="http://bluegraysky.blogspot.com/atom.xml"/>
+					<outline type="rss" text="Pitt Sports Blather -- Rantings on the Panthers" title="Pitt Sports Blather -- Rantings on the Panthers" xmlUrl="http://feeds.feedburner.com/PittSportsBlather"/>
+					<outline type="rss" text="mgoblog" title="mgoblog" xmlUrl="http://feeds.feedburner.com/mgoblog"/>
+					<outline type="rss" text="Every Day Should Be Saturday" title="Every Day Should Be Saturday" xmlUrl="http://everydayshouldbesaturday.com/xmlsrv/rss2.php?blog=1"/>
+				</outline>
+				<outline type="rss" text="Cleveland Indians Report" title="Cleveland Indians Report" xmlUrl="http://feeds.feedburner.com/ClevelandIndiansReport"/>
+				<outline type="rss" text="SERVIFUTBOL.COM" title="SERVIFUTBOL.COM" xmlUrl="http://www.servifutbol.com/rss.asp"/>
+				<outline type="rss" text="Football Outsiders" title="Football Outsiders" xmlUrl="http://www.footballoutsiders.com/wordpress/wp-rss2.php"/>
+			</outline>
+			<outline text="Technology">
+				<outline text="GameSpot">
+					<outline type="rss" text="Gamespot Recent Updates [News]" title="Gamespot Recent Updates [News]" xmlUrl="http://www.gamespot.com/misc/rss/gamespot_updates_news.xml"/>
+					<outline type="rss" text="Gamespot Recent Updates [Xbox]" title="Gamespot Recent Updates [Xbox]" xmlUrl="http://www.gamespot.com/misc/rss/gamespot_updates_xbox.xml"/>
+					<outline type="rss" text="Gamespot Recent Updates [PlayStation 2]" title="Gamespot Recent Updates [PlayStation 2]" xmlUrl="http://www.gamespot.com/misc/rss/gamespot_updates_playstation_2.xml"/>
+					<outline type="rss" text="Gamespot Recent Updates [PSP]" title="Gamespot Recent Updates [PSP]" xmlUrl="http://www.gamespot.com/misc/rss/gamespot_updates_psp.xml"/>
+				</outline>
+				<outline type="rss" text="PodcastAlley.com Top 50 Podcasts" title="PodcastAlley.com Top 50 Podcasts" xmlUrl="http://www.podcastalley.com/PodcastAlleyTop50.xml"/>
+				<outline type="rss" text="PodcastAlley.com Featured Podcasts" title="PodcastAlley.com Featured Podcasts" xmlUrl="http://www.podcastalley.com/PodcastAlleyFeatures.xml"/>
+				<outline type="rss" text="The AlleyBlog: Blogging from PodcastAlley.com" title="The AlleyBlog: Blogging from PodcastAlley.com" xmlUrl="http://www.podcastalley.com/blog/index.xml"/>
+				<outline type="rss" text="CNET Reviews - Most Recent Reviews" title="CNET Reviews - Most Recent Reviews" xmlUrl="http://reviews.cnet.com/4924-5_7-0.xml?orderBy=-7rvDte&amp;7rType=70-80&amp;maxhits=10&amp;9lwPrc=0-"/>
+				<outline type="rss" text="Wired News" title="Wired News" xmlUrl="http://www.wired.com/news_drop/netcenter/netcenter.rdf"/>
+				<outline type="rss" text="Gizmodo" title="Gizmodo" xmlUrl="http://www.gizmodo.com/excerpts.xml"/>
+				<outline type="rss" text="Slashdot:" title="Slashdot:" xmlUrl="http://slashdot.org/slashdot.rdf"/>
+				<outline type="rss" text="CNET Reviews - Opinionated advice about technology" title="CNET Reviews - Opinionated advice about technology" xmlUrl="http://www.cnet.com/4914-6033_1-0.xml?author=Wood:Molly&amp;maxhits=25"/>
+				<outline type="rss" text="Boing Boing" title="Boing Boing" xmlUrl="http://www.boingboing.net/index.rdf"/>
+				<outline type="rss" text="Engadget" title="Engadget" xmlUrl="http://www.engadget.com/rss.xml"/>
+				<outline type="rss" text="Geek News Central" title="Geek News Central" xmlUrl="http://www.geeknewscentral.com/podcasts/index.xml"/>
+				<outline type="rss" text="podbat blog" title="podbat blog" xmlUrl="http://blog.podbat.com/rss.xml"/>
+				<outline type="rss" text="Google Maps Mania" title="Google Maps Mania" xmlUrl="http://googlemapsmania.blogspot.com/atom.xml"/>
+				<outline type="rss" text="Scripting News" title="Scripting News" xmlUrl="http://www.scripting.com/rss.xml"/>
+				<outline type="rss" text="The RSS Weblog" title="The RSS Weblog" xmlUrl="http://rss.weblogsinc.com/rss.xml"/>
+				<outline type="rss" text="Google Blog" title="Google Blog" xmlUrl="http://googleblog.blogspot.com/atom.xml"/>
+				<outline type="rss" text="[blog.forret.com]" title="[blog.forret.com]" xmlUrl="http://feeds.feedburner.com/ForretcomBlog"/>
+				<outline type="rss" text="Podcasting" title="Podcasting" xmlUrl="http://www.corante.com/podcasting/blink_.xml"/>
+				<outline type="rss" text="Future Tense" title="Future Tense" xmlUrl="http://www.corante.com/futuretense/archives/blink_.xml"/>
+				<outline type="rss" text="digg" title="digg" xmlUrl="http://www.digg.com/rss/index.xml"/>
+			</outline>
+			<outline text="Cars">
+				<outline type="rss" text="Autoblog" title="Autoblog" xmlUrl="http://www.autoblog.com/rss.xml"/>
+				<outline type="rss" text="Views On car News" title="Views On car News" xmlUrl="http://carpoint.blogspot.com/atom.xml"/>
+				<outline type="rss" text="DriversDrive.com" title="DriversDrive.com" xmlUrl="http://www.driversdrive.com/rss.xml"/>
+			</outline>
+			<outline text="Wine">
+				<outline type="rss" text="Winecast" title="Winecast" xmlUrl="http://winecast.net/wp-rss2.php"/>
+				<outline type="rss" text="Élevage" title="Élevage" xmlUrl="http://elevage.blogspot.com/atom.xml"/>
+				<outline type="rss" text="Huge Johnsons World of Wine" title="Huge Johnsons World of Wine" xmlUrl="http://feeds.feedburner.com/HugeJohnsonsWorldOfWine"/>
+				<outline type="rss" text="Mike's Wine Blog" title="Mike's Wine Blog" xmlUrl="http://mikeswinecellar.blogspot.com/atom.xml"/>
+				<outline type="rss" text="Vivi's Wine Journal" title="Vivi's Wine Journal" xmlUrl="http://feeds.feedburner.com/VivisWineJournal"/>
+				<outline type="rss" text="Vinography: a wine blog" title="Vinography: a wine blog" xmlUrl="http://www.vinography.com/index.rdf"/>
+				<outline type="rss" text="Grape Radio" title="Grape Radio" xmlUrl="http://graperadio.com/wp-rss2.php"/>
+				<outline type="rss" text="Decantations: adventures in wine" title="Decantations: adventures in wine" xmlUrl="http://www.decantations.com/nucleus/xml-rss2.php"/>
+				<outline type="rss" text="Bernie's Bargain Wine Reviews" title="Bernie's Bargain Wine Reviews" xmlUrl="http://cheapwine.blogspot.com/atom.xml"/>
+			</outline>
+			<outline text="Personal Stuff">
+				<outline type="rss" text="Gmail - Inbox for ndbutter" title="Gmail - Inbox for ndbutter" xmlUrl="http://mail.google.com/mail/feed/atom"/>
+				<outline type="rss" text="NDBUTTER's recent games" title="NDBUTTER's recent games" xmlUrl="http://www.bungie.net/stats/halo2rss.ashx?i=1051567&amp;k=561314299"/>
+				<outline type="rss" text="ndbutter's Photos" title="ndbutter's Photos" xmlUrl="http://www.flickr.com/services/feeds/photos_public.gne?id=99338268@N00&amp;format=rss_200"/>
+				<outline type="rss" text="Toledo Haluego" title="Toledo Haluego" xmlUrl="http://feeds.feedburner.com/ToledoHaluego"/>
+				<outline type="rss" text="The SEPTA Sucks Blog" title="The SEPTA Sucks Blog" xmlUrl="http://feeds.feedburner.com/SeptaSucksBlog"/>
+			</outline>
+			<outline text="Espana">
+				<outline type="rss" text="Notes from Spain" title="Notes from Spain" xmlUrl="http://blogspain.libsyn.com/rss"/>
+				<outline type="rss" text="" title="" xmlUrl="http://www.notesfromspain.com/feed/"/>
+				<outline type="rss" text="PO VAYA TALANTE !" title="PO VAYA TALANTE !" xmlUrl="http://app.quediario.com/blog/RSSControlador?tp=4&amp;u=1163&amp;p=1"/>
+				<outline type="rss" text="blogueando" title="blogueando" xmlUrl="http://app.quediario.com/blog/RSSControlador?tp=4&amp;u=8940&amp;p=1"/>
+				<outline type="rss" text="PERDÓN, ¿MOLESTO?" title="PERDÓN, ¿MOLESTO?" xmlUrl="http://app.quediario.com/blog/RSSControlador?tp=4&amp;u=3046&amp;p=1"/>
+				<outline type="rss" text="Puerta del Sol Blog: Reflections on Life in Spain and Spanish Culture" title="Puerta del Sol Blog: Reflections on Life in Spain and Spanish Culture" xmlUrl="http://www.puertadelsolblog.com/index.xml"/>
+				<outline type="rss" text="kellycrull.com" title="kellycrull.com" xmlUrl="http://kellycrull.com/index.xml"/>
+			</outline>
+		</outline>
+	</body>
+</opml>

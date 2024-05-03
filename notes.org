@@ -1,0 +1,13 @@
+#+title: Notes
+* Tools?
+https://github.com/ranahaani/GNews
+
+* TODO
+- [ ] css themes
+- [ ] rss scrape
+- [ ] URL modification option, eg twitter/x to nitter instance
+- [ ] result article status, "this article is missing information", "this article is broken", etc.
+- [ ] twitter/x scrape
+- [ ] auto-refire (timed events to update articles)
+- [ ] manual refire (user clicks "refresh this article")
+- [ ] diff view of article if any modification between refires

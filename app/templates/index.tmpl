@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <title>nooz.rip || home</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="/static/0.css" />
+  <script src="https://unpkg.com/htmx.org@1.9.10"></script>
+</head>
+
+<body>
+  <header>
+    <img src="/static/nooz.png" style="width:80px;float:left;"></img>
+    <h1>nooz.rip</h1>
+    <h4>Cached Articles: {{ count }}</h4>
+  </header>
+  <div class="entries">
+    <div hx-get="/articles/1" hx-trigger="load" hx-swap="outerHTML"></div>
+  </div>
+</body>
+
+</html>

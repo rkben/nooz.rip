@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="2.0">
+	<head>
+		<title>Feed</title>
+		<longTitle>Small Picture users community feed</longTitle>
+		<description>Realtime notes from users of Small Picture's &lt;a href="http://fargo.io" target="_blank">Fargo&lt;/a> outliner.</description>
+		<expansionState>1,2,4,5,8,9,12,13,14,15,16,17,20,21,22,23,24,25,27,28,31,32,35,36,39,40,42,43,47,48,50,51,54,55,56,57,58,59,60,61,64,65,66,67,68,69,72,73,74,75,76,77,78,79,80,81,82,83,85,86,89,90,92,93,94,95,100,101,103,104,106,107,108,109,112,113,117,118,119,120,123,124,126,127,129,130,134,135,136,137,138,139,140,141,142,143,149,150,151,152</expansionState>
+		</head>
+	<body>
+		<outline created="Wed, 19 Jun 2013 21:10:17 GMT" text="Jeffrey Kishner" type="profile" url="http://jeff.smallpict.com/">
+			<outline created="Wed, 19 Jun 2013 21:06:08 GMT" text="Theron, one thing to note is that the templates you copied include a google analytics javascript with Kyle's ID. You may want to delete that or swap in your own ID if you have one.">
+				<outline created="Wed, 19 Jun 2013 21:08:11 GMT" text="It's the 3rd [script] in the [head] "></outline>
+				</outline>
+			</outline>
+		<outline created="Wed, 19 Jun 2013 21:04:34 GMT" text="Betsy Kimak" type="profile" url="http://betsy.smallpict.com/">
+			<outline created="Wed, 19 Jun 2013 20:43:29 GMT" text="@Jeffrey thanks, maybe it'll show with Trex. My Fargo profile isn't indexed (though right now it also doesn't seem to be loading.)" type="outline">
+				<outline created="Wed, 19 Jun 2013 20:52:13 GMT" icon="heart" text="Love all the first blogs, hoping for time soon to catch up &amp; join in."></outline>
+				<outline created="Wed, 19 Jun 2013 20:58:40 GMT" icon="home" text="(got a power sander, making a huge mess!)"></outline>
+				</outline>
+			</outline>
+		<outline created="Wed, 19 Jun 2013 21:01:15 GMT" icon="star-empty" text="Andrew">
+			<outline text="This is what I was thinking about the other day">
+				<outline created="Wed, 19 Jun 2013 20:57:23 GMT" text="what if ghosts are real"></outline>
+				<outline created="Wed, 19 Jun 2013 20:57:32 GMT" text="&lt;b&gt;all the time&lt;/b&gt;"></outline>
+				</outline>
+			</outline>
+		<outline created="Wed, 19 Jun 2013 20:49:58 GMT" text="Larry Yudelson" type="profile" url="http://yudel.smallpict.com">
+			<outline created="Wed, 19 Jun 2013 20:48:54 GMT" text="If I'm not mistaken, the quality of the iPhone version of Fargo has been quietly improving. Now all it needs is a tab key..."></outline>
+			</outline>
+		<outline created="Wed, 19 Jun 2013 20:48:06 GMT" text="Larry Yudelson" type="profile" url="http://yudel.smallpict.com">
+			<outline created="Wed, 19 Jun 2013 20:47:26 GMT" text="@Jeffrey, once you've published a page with the eye, further changes to the outline will be mirrored on the web page.... with a delay of a minute or two."></outline>
+			</outline>
+		<outline created="Wed, 19 Jun 2013 18:52:35 GMT" text="Theron Kelso" type="profile" url="http://theron.smallpict.com">
+			<outline created="Wed, 19 Jun 2013 17:26:15 GMT" text="My First &quot;Real&quot; Blog Post" type="outline">
+				<outline created="Wed, 19 Jun 2013 17:26:33 GMT" text="From Trex and &lt;a href=&quot;http://fargo.io&quot;&gt;Fargo.io&lt;/a&gt;."></outline>
+				<outline created="Wed, 19 Jun 2013 17:26:53 GMT" text="Copied some stuff from &lt;a href=&quot;http://www.kyleshank.com/&quot;&gt;Kyle&lt;/a&gt; &amp; &lt;a href=&quot;http://www.jeffreykishner.com/&quot;&gt;Jeffrey&lt;/a&gt;. Tinkered a little more  - with lots of opps - to figure some stuff out. Not perfect by any means."></outline>
+				</outline>
+			</outline>
+		<outline created="Wed, 19 Jun 2013 16:23:51 GMT" text="ray collins" type="profile" url="http://RayC.smallpict.com/">
+			<outline created="Tue, 18 Jun 2013 16:41:12 GMT" text="After naming an outline, I don't get the 'eye' ... ? What am I doing wrong?"></outline>
+			</outline>
+		<outline created="Wed, 19 Jun 2013 15:24:46 GMT" text="Jeffrey Kishner" type="profile" url="http://jeff.smallpict.com/">
+			<outline created="Wed, 19 Jun 2013 15:24:07 GMT" text="&lt;a href=&quot;http://www.jeffreykishner.com/2013/06/june19/howToUseRedirectInFargo&quot;&gt;How I'm using type=redirect for my fargo/trex blog on my own domain&lt;/a&gt;"></outline>
+			</outline>
+		<outline created="Wed, 19 Jun 2013 14:18:32 GMT" text="Dave Winer" type="profile" url="http://dave.smallpict.com/">
+			<outline created="Wed, 19 Jun 2013 14:17:44 GMT" text="Jeffrey -- Trex content is dynamically server, it's not static." type="outline">
+				<outline created="Wed, 19 Jun 2013 14:18:15 GMT" text="However, it is fully accessible by search engines, and should be indexed like any other site. "></outline>
+				</outline>
+			</outline>
+		<outline created="Wed, 19 Jun 2013 14:06:55 GMT" text="Jeffrey Kishner" type="profile" url="http://jeff.smallpict.com/">
+			<outline created="Wed, 19 Jun 2013 14:04:17 GMT" text="@Betsy, it looks like Google does crawl published smallpict content. ">
+				<outline created="Wed, 19 Jun 2013 14:05:07 GMT" text="Dave/Kyle can correct me if I'm wrong, but I think it's just static content sitting on amazon aws (i.e., it's no longer about your dropbox files once it's published, that's just the CMS source)"></outline>
+				<outline created="Wed, 19 Jun 2013 14:06:01 GMT" text="&lt;a href=&quot;https://www.google.com/search?q=site%3Awww.jeffreykishner.com&amp;oq=site%3Awww.jeffreykishner.com&quot;&gt;this google search of www.jeffreykishner.com&lt;/a&gt; already shows some listings"></outline>
+				</outline>
+			</outline>
+		<outline created="Wed, 19 Jun 2013 14:02:46 GMT" text="Jeffrey Kishner" type="profile" url="http://jeff.smallpict.com/">
+			<outline created="Wed, 19 Jun 2013 13:59:43 GMT" text="@Chris Wolverton, I pretty much copied &lt;a href=&quot;http://www.kyleshank.com&quot;&gt;Kyle&lt;/a&gt;, he was the first one to do it (he's also 1/2 of smallpicture)">
+				<outline created="Wed, 19 Jun 2013 14:00:26 GMT" text="open &quot;kyle&quot; by name to see his opml and how he does it">
+					<outline created="Wed, 19 Jun 2013 14:00:41 GMT" text="the bottom line is that you have your actual blog contents in a separate opml that is included in your named outline, which points to your domain"></outline>
+					</outline>
+				<outline created="Wed, 19 Jun 2013 14:01:19 GMT" text="also, dave has a full smallpict blog &lt;a href=&quot;http://threads.smallpict.com/&quot;&gt;here&lt;/a&gt; ">
+					<outline created="Wed, 19 Jun 2013 14:02:22 GMT" text="open &quot;threads&quot; by name to see the opml"></outline>
+					</outline>
+				</outline>
+			</outline>
+		<outline created="Wed, 19 Jun 2013 12:53:39 GMT" text="Dave Winer" type="profile" url="http://dave.smallpict.com/">
+			<outline created="Wed, 19 Jun 2013 12:48:31 GMT" text="If you're a web developer or designer, you may want to be on the &lt;a href=&quot;https://groups.google.com/forum/?fromgroups#!forum/smallpicture-web&quot;&gt;smallpicture-web&lt;/a&gt; list, which is where we tested Trex. " type="outline">
+				<outline created="Wed, 19 Jun 2013 12:48:53 GMT" text="But if you're a writer, please don't feel you have to understand what's going on &quot;under the hood.&quot; "></outline>
+				<outline created="Wed, 19 Jun 2013 12:50:57 GMT" text="Fargo is a writing tool that can also be used for stuff techies do. And the end result is a richer environment for writers. "></outline>
+				</outline>
+			</outline>
+		<outline created="Wed, 19 Jun 2013 03:27:26 GMT" icon="star-empty" text="Bob Eback">
+			<outline text="&lt;i&gt;my first story&lt;/i&gt;" type="outline">
+				<outline created="Wed, 19 Jun 2013 03:17:17 GMT" text="once upon a time yadda yadda"></outline>
+				</outline>
+			</outline>
+		<outline created="Wed, 19 Jun 2013 02:42:34 GMT" text="Betsy Kimak" type="profile" url="http://betsy.smallpict.com/">
+			<outline created="Wed, 19 Jun 2013 02:41:13 GMT" text="Woo - excited to have a go at Fargo + Trex!" type="outline">
+				<outline created="Wed, 19 Jun 2013 02:36:11 GMT" text="I'm guessing I can start building that new blog?"></outline>
+				<outline created="Wed, 19 Jun 2013 02:33:34 GMT" text="Hmmm...will it be seen by Google? Dropbox folders aren't indexed."></outline>
+				<outline created="Wed, 19 Jun 2013 02:38:52 GMT" text="(+1 @AngeloR!)"></outline>
+				</outline>
+			</outline>
+		<outline created="Wed, 19 Jun 2013 01:44:59 GMT" text="Dave Seidel" type="profile" url="http://daveseidel.smallpict.com/">
+			<outline created="Tue, 18 Jun 2013 22:04:33 GMT" text="Inline calculator">
+				<outline created="Tue, 18 Jun 2013 22:04:54 GMT" text="You can use an outline to write and evaluate math expressions.">
+					<outline created="Wed, 19 Jun 2013 01:39:33 GMT" text="Just type an expression on its own line and use Ctrl+/ (Run Selection) to see the result. ">
+						<outline created="Wed, 19 Jun 2013 01:42:12 GMT" text="Fine print: You can use any expression that is valid Javascript."></outline>
+						</outline>
+					<outline created="Wed, 19 Jun 2013 01:35:36 GMT" text="Try it on the next line:"></outline>
+					<outline created="Wed, 19 Jun 2013 01:37:32 GMT" isComment="true" text="365 * (60 * 24)"></outline>
+					</outline>
+				</outline>
+			</outline>
+		<outline created="Wed, 19 Jun 2013 01:15:01 GMT" text="Ken Smith" type="profile" url="http://smith.smallpict.com/">
+			<outline created="Wed, 19 Jun 2013 01:08:25 GMT" text="Fargo 0.80 is a real pleasure--much to consider and try out, many thanks." type="outline">
+				<outline created="Wed, 19 Jun 2013 01:08:55 GMT" text="Here is a sample presentation--&lt;a href=&quot;http://smith.smallpict.com/myGrandfathersWaltz#/&quot;&gt;a poem&lt;/a&gt;. "></outline>
+				<outline created="Wed, 19 Jun 2013 01:13:34 GMT" text="And to Jeffrey K.--thanks for the quiz format. I see that it also works with more layers and more answers under each question, very nice."></outline>
+				</outline>
+			</outline>
+		<outline created="Wed, 19 Jun 2013 00:49:59 GMT" text="Chris Wolverton" type="profile" url="http://chris.smallpict.com/">
+			<outline created="Wed, 19 Jun 2013 00:41:01 GMT" text="Correct me if I'm wrong, but it appears that &lt;a href=&quot;http://jeff.smallpict.com/&quot;&gt;Jeffrey Kishner&lt;/a&gt; has &lt;a href=&quot;http://www.jeffreykishner.com/&quot;&gt;implemented&lt;/a&gt; a fairly complete rough draft of a blog using Fargo. I hope he doesn't mind that I'm peeping at his tricks in his OPML file!"></outline>
+			</outline>
+		<outline created="Tue, 18 Jun 2013 22:26:55 GMT" text="Angelo R." type="profile" url="http://angelor.smallpict.com">
+			<outline created="Tue, 18 Jun 2013 22:24:56 GMT" text="Oh man, can't wait till Fargo lets me use my own domain name! Or perhaps provides a self-hosted version. I would gladly give you money for either. " type="outline"></outline>
+			</outline>
+		<outline created="Tue, 18 Jun 2013 21:22:14 GMT" text="Theron Kelso" type="profile" url="http://theron.smallpict.com">
+			<outline created="Tue, 18 Jun 2013 16:34:13 GMT" text="Yip! Likin' .80. Can't wait to tinker with includes and trex.  Tonight is for National's - how bad will they lose?" type="outline"></outline>
+			</outline>
+		<outline created="Tue, 18 Jun 2013 20:00:52 GMT" text="Kail Keusch" type="profile" url="kfkkail">
+			<outline icon="arrow-right" text="My Next Car 2013">
+				<outline created="Tue, 16 Apr 2013 18:31:12 GMT" text="Requirements">
+					<outline created="Tue, 16 Apr 2013 18:31:57 GMT" text="Manual Transmission">
+						<outline created="Tue, 16 Apr 2013 18:32:14 GMT" text="Preferably 6 Speed"></outline>
+						</outline>
+					<outline created="Tue, 16 Apr 2013 18:32:08 GMT" text="Price - No more than 15-18k"></outline>
+					<outline created="Tue, 16 Apr 2013 18:34:00 GMT" text="MPG - at least 20"></outline>
+					<outline created="Tue, 16 Apr 2013 18:34:14 GMT" text="No less than 350 HP"></outline>
+					</outline>
+				<outline created="Tue, 16 Apr 2013 18:31:38 GMT" text="Possible Models">
+					<outline created="Tue, 16 Apr 2013 18:31:47 GMT" text="2004 Cadillac CTS-V">
+						<outline created="Tue, 16 Apr 2013 18:41:44 GMT" text="Specs" type="link" url="http://www.edmunds.com/cadillac/cts-v/2004/features-specs.html?style=&amp;sub=">
+							<outline created="Tue, 16 Apr 2013 18:50:01 GMT" text="5.7L V8">
+								<outline created="Tue, 16 Apr 2013 18:50:29 GMT" text="400 HP @ 6000 RPM"></outline>
+								<outline created="Tue, 16 Apr 2013 18:50:41 GMT" text="395 ft-lbs. @ 4800 RPM"></outline>
+								</outline>
+							<outline created="Tue, 16 Apr 2013 18:50:53 GMT" text="6-speed Manual"></outline>
+							<outline created="Tue, 16 Apr 2013 18:51:06 GMT" text="Curb Weight 3850 lbs."></outline>
+							</outline>
+						</outline>
+					<outline created="Tue, 16 Apr 2013 18:32:51 GMT" text="2005 Cadillac CTS-V">
+						<outline created="Tue, 16 Apr 2013 18:41:47 GMT" text="Specs" type="link" url="http://www.edmunds.com/cadillac/cts-v/2005/features-specs.html?style=100380706">
+							<outline text="5.7L V8">
+								<outline text="400 HP @ 6000 RPM"></outline>
+								<outline text="395 ft-lbs. @ 4800 RPM"></outline>
+								</outline>
+							<outline text="6-speed Manual"></outline>
+							<outline text="Curb Weight 3850 lbs."></outline>
+							</outline>
+						</outline>
+					<outline created="Tue, 16 Apr 2013 18:56:49 GMT" text="2011 Ford Mustang GT">
+						<outline created="Tue, 16 Apr 2013 19:00:11 GMT" text="Specs" type="link" url="http://www.edmunds.com/ford/mustang/2011/features-specs.html?ps=used&amp;style=101274490"></outline>
+						<outline created="Tue, 16 Apr 2013 18:59:16 GMT" text="No 6 speed manual trans option until 2011">
+							<outline created="Tue, 16 Apr 2013 19:00:03 GMT" text="2011 is over budget around $23k"></outline>
+							</outline>
+						</outline>
+					<outline created="Tue, 16 Apr 2013 19:14:56 GMT" text="2003 BMW M5 sedan">
+						<outline created="Tue, 16 Apr 2013 19:15:04 GMT" text="Specs"></outline>
+						<outline created="Tue, 16 Apr 2013 19:15:08 GMT" text="Notes">
+							<outline created="Tue, 16 Apr 2013 19:15:47 GMT" text="2000-2003 models within requirements"></outline>
+							<outline created="Tue, 16 Apr 2013 19:16:04 GMT" text="didn't make the car from 2004-2005"></outline>
+							<outline created="Tue, 16 Apr 2013 19:16:49 GMT" text="2006 version over budget around $20k"></outline>
+							</outline>
+						</outline>
+					<outline created="Tue, 16 Apr 2013 19:18:37 GMT" text="2006 BMW M3 coupe">
+						<outline created="Tue, 16 Apr 2013 19:18:55 GMT" text="Specs"></outline>
+						<outline created="Tue, 16 Apr 2013 19:18:57 GMT" text="Notes">
+							<outline created="Tue, 16 Apr 2013 19:19:00 GMT" text="didn't make the car in 2007"></outline>
+							<outline created="Tue, 16 Apr 2013 19:19:17 GMT" text="2001-2006 models within requirements"></outline>
+							</outline>
+						</outline>
+					<outline created="Wed, 17 Apr 2013 22:36:04 GMT" text="Chevy Camaro"></outline>
+					</outline>
+				</outline>
+			</outline>
+		<outline created="Tue, 18 Jun 2013 16:41:00 GMT" icon="star-empty" text="Mike Lopez">
+			<outline created="Tue, 18 Jun 2013 16:39:46 GMT" text="there is no spoon" type="outline"></outline>
+			</outline>
+		<outline created="Tue, 18 Jun 2013 15:37:57 GMT" text="Dave Winer" type="profile" url="http://dave.smallpict.com/">
+			<outline created="Tue, 18 Jun 2013 15:37:30 GMT" text="Jeffrey, that's fantasic. Utter simplicity. ;-)" type="outline"></outline>
+			</outline>
+		<outline created="Tue, 18 Jun 2013 15:06:28 GMT" text="Jeffrey Kishner" type="profile" url="http://jeff.smallpict.com/">
+			<outline created="Tue, 18 Jun 2013 15:02:04 GMT" text="How to publish a quiz in Fargo 0.80">
+				<outline created="Tue, 18 Jun 2013 15:02:22 GMT" text="Follow the directions in the &lt;a href=&quot;http://worknotes.smallpicture.com/june2013/fargo080&quot;&gt;worknotes&lt;/a&gt; to publish an outline"></outline>
+				<outline created="Tue, 18 Jun 2013 15:03:01 GMT" text="To publish a quiz so that the answers are hidden (like &lt;a href=&quot;http://jeff.smallpict.com/xmlQuiz&quot;&gt;here&lt;/a&gt;), copy the following, paste it into your named outline, and change anything but the rules:">
+					<outline created="Tue, 18 Jun 2013 14:11:33 GMT" text="Quiz" type="outline">
+						<outline created="Tue, 18 Jun 2013 14:11:37 GMT" text="&lt;rules&gt;">
+							<outline created="Tue, 18 Jun 2013 14:11:42 GMT" text="&lt;rule from=&quot;1&quot; to=&quot;infinity&quot;&gt;">
+								<outline created="Tue, 18 Jun 2013 14:11:59 GMT" text="&lt;expanded&gt;false&lt;/expanded&gt;"></outline>
+								<outline created="Tue, 18 Jun 2013 14:12:07 GMT" text="&lt;/rule&gt;"></outline>
+								</outline>
+							<outline created="Tue, 18 Jun 2013 14:12:08 GMT" text="&lt;/rules&gt;"></outline>
+							</outline>
+						<outline created="Tue, 18 Jun 2013 14:12:12 GMT" text="question 1">
+							<outline created="Tue, 18 Jun 2013 14:12:52 GMT" text="answer 1"></outline>
+							</outline>
+						<outline created="Tue, 18 Jun 2013 14:12:53 GMT" text="question 2">
+							<outline created="Tue, 18 Jun 2013 14:13:21 GMT" text="answer 2"></outline>
+							</outline>
+						</outline>
+					</outline>
+				</outline>
+			</outline>
+		<outline created="Tue, 18 Jun 2013 14:41:59 GMT" text="Dave Winer" type="profile" url="http://dave.smallpict.com/">
+			<outline created="Tue, 18 Jun 2013 14:40:41 GMT" text="Fargo 0.80 is up. Big new features. ;-)" type="link" url="http://worknotes.smallpicture.com/june2013/fargo080"></outline>
+			</outline>
+		<outline created="Mon, 17 Jun 2013 12:49:00 GMT" text="Richard Griffiths" type="profile" url="http://rgriffiths.smallpict.com">
+			<outline created="Mon, 17 Jun 2013 11:26:31 GMT" text="@Angelo R - I've been using a &lt;a href=&quot;http://www.nineproductions.com/an-alternative-to-dropbox/&quot;&gt;Tonido Plug 2&lt;/a&gt; as a home server. OwnCloud looks quite similar, software-wise. Apparently people have successfully &lt;a href=&quot;http://www.tonido.com/forum/viewtopic.php?f=37&amp;t=5414&quot;&gt;installed&lt;/a&gt; OwnCloud on their Tonido Plug (it runs on Debian) - and I'm now going to try this." type="outline"></outline>
+			</outline>
+		<outline created="Mon, 17 Jun 2013 00:15:34 GMT" text="Dave Winer" type="profile" url="http://dave.smallpict.com/">
+			<outline created="Mon, 17 Jun 2013 00:14:15 GMT" text="There was a bogus message in the queue for the community feed going back a few days ago, which made it look like it was empty. Finally got a chance to look into it and was able to get rid of it, and all of a sudden a few messages showed up." type="outline"></outline>
+			</outline>
+		<outline created="Sun, 16 Jun 2013 23:00:56 GMT" text="Angelo R." type="profile" url="http://angelor.smallpict.com">
+			<outline created="Sun, 16 Jun 2013 23:00:36 GMT" text="Has anyone here used OwnCloud?" type="outline"></outline>
+			</outline>
+		<outline created="Sun, 16 Jun 2013 20:24:02 GMT" text="Ken Smith" type="profile" url="http://smith.smallpict.com/">
+			<outline created="Sun, 16 Jun 2013 20:23:25 GMT" text="For the right audience members, there is a breath-taking moment in the new Superman movie involving RSS feeds. Sadly the movie itself is so-so at best." type="outline"></outline>
+			</outline>
+		<outline created="Sun, 16 Jun 2013 18:45:20 GMT" text="Ken Smith" type="profile" url="http://smith.smallpict.com/">
+			<outline created="Sun, 16 Jun 2013 18:39:51 GMT" text="Richard, thanks for carrying on so generously with the conversation about transitions and outlining." type="outline">
+				<outline created="Sun, 16 Jun 2013 18:40:08 GMT" text="You have a keen sense of the process work that outlining helps a writer accomplish. I think you are right about the need to not let transition words hinder those brainstorming, reorganizing stages.">
+					<outline created="Sun, 16 Jun 2013 18:41:43 GMT" text="You might be interested in a handout I use in a freshman writing class to help students think about developing paragraphs that cohere. You will see right off that it does not attend to the process elements that you have been focusing on, but is mainly about the final organization and polish. Here it is:">
+						<outline created="Sun, 16 Jun 2013 18:44:07 GMT" text="W130 Sentence Linking Handout" type="include" url="https://dl.dropbox.com/s/m7mtsq0w1u0uupq/sentenceLinking.opml">
+							<outline text="In W130 we practice a writing strategy called linking.">
+								<outline created="Sun, 16 Jun 2013 18:24:42 GMT" text="Well-linked sentences make reading easier, even when the subject matter is challenging.">
+									<outline created="Sun, 16 Jun 2013 18:25:07 GMT" text="These sentences usually have four traits. They link explicitly, link early, add value, and stay on topic.">
+										<outline created="Sun, 16 Jun 2013 18:25:34 GMT" text="Well-linked sentences often employ a repeated word or phrase to help a reader see a clear connection between the two neighboring sentences.">
+											<outline created="Sun, 16 Jun 2013 18:26:12 GMT" text="Instead of repeating, using an obvious synonym will also establish a clear link between two sentences.">
+												<outline created="Sun, 16 Jun 2013 18:26:33 GMT" text="Whether there is a repeated word or phrase or a clear synonym, a good writer links explicitly."></outline>
+												</outline>
+											</outline>
+										<outline created="Sun, 16 Jun 2013 18:26:52 GMT" text="Because readers look for these links as they try to understand a passages, good writers usually supply the linking word or phrase early in each sentence.">
+											<outline created="Sun, 16 Jun 2013 18:27:34 GMT" text="When the link arrives late in the sentence or not at all, a reader begins to lose the thread of the discussion."></outline>
+											</outline>
+										<outline created="Sun, 16 Jun 2013 18:27:54 GMT" text="Having established the link early in a sentence, the writer then uses the remainder of the sentence to add other information.">
+											<outline created="Sun, 16 Jun 2013 18:28:21 GMT" text="In this way, each sentence not only links to the previous one but also adds value and meaning.">
+												<outline created="Sun, 16 Jun 2013 18:28:38 GMT" text="Otherwise, a sentence tends merely to repeat what has already been said."></outline>
+												</outline>
+											</outline>
+										<outline created="Sun, 16 Jun 2013 18:28:54 GMT" text="Once the clear links are in place and each sentence adds something to the discussion, a paragraph comes into shape. But there is one risk: while sentences may all link, a discussion can still wander unless the writer stays on topic.">
+											<outline created="Sun, 16 Jun 2013 18:29:55 GMT" text="Notice how these links go astray: cars, Pontiacs, Studebakers, made in South Bend, home of Notre Dame, football, crowds cheering, cheerleading skills, gymnastics."></outline>
+											<outline created="Sun, 16 Jun 2013 18:31:09 GMT" text="But these links do not stray: car manufacturing, Pontiacs in Detroit, Studebakers in South Bend, Mercedes in Germany, Porshes in Italy.">
+												<outline created="Sun, 16 Jun 2013 18:31:55 GMT" text="Good writers stay on topic."></outline>
+												</outline>
+											</outline>
+										<outline created="Sun, 16 Jun 2013 18:32:03 GMT" text="All together, the four linking rules provide a rock-solid set of sentence and paragraph skills. To review:">
+											<outline created="Sun, 16 Jun 2013 18:32:37 GMT" text="Link explicitly."></outline>
+											<outline created="Sun, 16 Jun 2013 18:32:44 GMT" text="Link early."></outline>
+											<outline created="Sun, 16 Jun 2013 18:32:47 GMT" text="Add value."></outline>
+											<outline created="Sun, 16 Jun 2013 18:32:50 GMT" text="Stay on topic."></outline>
+											</outline>
+										</outline>
+									</outline>
+								</outline>
+							</outline>
+						</outline>
+					</outline>
+				</outline>
+			</outline>
+		<outline created="Thu, 13 Jun 2013 21:03:21 GMT" text="Theron Kelso" type="profile" url="http://theron.smallpict.com">
+			<outline created="Thu, 13 Jun 2013 20:53:38 GMT" text="Been having a lot of meetings during the last few weeks. Been using Fargo to keep notes and share them with others through reader. I just realized that there isn't an easy hook into analytics to see if anyone is reading. I suppose I could use something like bit.ly. " type="outline">
+				<outline created="Thu, 13 Jun 2013 21:01:19 GMT" text="However,"></outline>
+				<outline created="Thu, 13 Jun 2013 21:01:27 GMT" text="It would be nice to have that feature within Fargo.io."></outline>
+				</outline>
+			</outline>
+		<outline created="Wed, 12 Jun 2013 20:31:23 GMT" text="Rodney Mitchell" type="profile" url="http://rodmitch.smallpict.com/">
+			<outline created="Wed, 12 Jun 2013 20:26:27 GMT" text="That reminds me I was going to post this a couple days ago and forgot.">
+				<outline created="Wed, 12 Jun 2013 20:28:17 GMT" text="That Saturday I was afraid of last week was bad but didn't last long:">
+					<outline created="Wed, 12 Jun 2013 20:28:47 GMT" text="29 degrees cooler the next day, and 35 cooler two days later!"></outline>
+					<outline created="Wed, 12 Jun 2013 20:24:34 GMT" text="&lt;img src=&quot;https://dl.dropboxusercontent.com/u/5610569/130610temp.PNG&quot;&gt;">
+						<outline created="Wed, 12 Jun 2013 20:29:42 GMT" text="That's 107 Saturday, 78 Sunday, and 72 Monday."></outline>
+						</outline>
+					</outline>
+				</outline>
+			</outline>
+		<outline created="Wed, 12 Jun 2013 17:14:22 GMT" text="Betsy Kimak" type="profile" url="http://betsy.smallpict.com/">
+			<outline created="Wed, 12 Jun 2013 17:04:29 GMT" text="Was 100 degrees here in Denver yesterday, broke the record for the earliest day of triple-digit heat.  Cooler today so it &lt;i&gt;is&lt;/i&gt; a good morning. :) "></outline>
+			</outline>
+		<outline created="Tue, 11 Jun 2013 06:08:46 GMT" text="Richard Griffiths" type="profile" url="http://rgriffiths.smallpict.com">
+			<outline created="Fri, 07 Jun 2013 04:26:22 GMT" text="@Ken Smith - some thoughts on outlining and writing">
+				<outline created="Tue, 11 Jun 2013 06:05:52 GMT" text="I want to be able to reposition nodes in an outline back and forth easily, without breaking the meaning. ">
+					<outline created="Fri, 07 Jun 2013 05:23:29 GMT" icon="cut" text="However,"></outline>
+					<outline created="Fri, 07 Jun 2013 05:23:14 GMT" text="Placed at the start of a node, words such as &lt;i&gt;and, but, although, so, because, this&lt;/i&gt;, seem to get in the way of my aim to sort and re-sort my ideas.">
+						<outline created="Fri, 07 Jun 2013 05:22:45 GMT" icon="cut" text="In contrast,"></outline>
+						</outline>
+					<outline created="Fri, 07 Jun 2013 04:29:42 GMT" text="It's fairly easy to move around nodes that don't start with a &lt;a href=&quot;https://www.msu.edu/~jdowell/135/transw.html&quot;&gt;transition&lt;/a&gt;, to make new logical connections between ideas.">
+						<outline created="Fri, 07 Jun 2013 05:24:12 GMT" icon="cut" text="So"></outline>
+						</outline>
+					<outline created="Fri, 07 Jun 2013 04:35:45 GMT" text="The structure of an outline now does quite a lot of the basic sense-making that transitional or connective phrases would otherwise supply.">
+						<outline created="Fri, 07 Jun 2013 05:24:47 GMT" icon="cut" text="For example, it can"></outline>
+						<outline text="- 'connect one idea to the next'"></outline>
+						<outline created="Fri, 07 Jun 2013 05:25:49 GMT" icon="cut" text="or"></outline>
+						<outline text="- 'help the reader progress from one significant idea to the next' "></outline>
+						<outline created="Fri, 07 Jun 2013 05:25:54 GMT" icon="cut" text="or"></outline>
+						<outline text="- 'show the relationship within a paragraph (or within a sentence) between the main idea and the support the author gives for those ideas'. "></outline>
+						<outline created="Fri, 07 Jun 2013 05:26:17 GMT" icon="cut" text="Moreover,"></outline>
+						<outline created="Fri, 07 Jun 2013 05:04:24 GMT" text="Unlike a standard piece of prose writing, an outline suggests implicit transitions, based on the different levels."></outline>
+						<outline created="Tue, 11 Jun 2013 01:09:03 GMT" text="The outline structure provides meaning and logic - but only for as long as the piece of writing remains in the form of a dynamic outline.">
+							<outline created="Tue, 11 Jun 2013 01:09:44 GMT" text="As soon as the outline is converted to a static list, some of the meaning is lost - the implicit invitation to alter and edit the order, for example."></outline>
+							</outline>
+						</outline>
+					</outline>
+				<outline created="Fri, 07 Jun 2013 04:57:17 GMT" text="Electronic outlining is effectively a new form of communication. Previously, nearly all outlines would be turned into prose or something similar - or else retained as private notes (e.g. shopping lists). This is no longer necessarily the case. Outlines themselves are fast becoming a respectable form of &lt;i&gt;published&lt;/i&gt; media.">
+					<outline created="Sat, 08 Jun 2013 10:11:21 GMT" text="The outline can now be the finished product -  except the finished product is most useful when it remains a work in progress, still capable of sorting and editing. "></outline>
+					</outline>
+				<outline created="Tue, 11 Jun 2013 01:23:32 GMT" text="What is the new role of connective words and phrases?">
+					<outline created="Fri, 07 Jun 2013 05:00:23 GMT" text="With the ability to publish &lt;i&gt;reconfigurable&lt;/i&gt; outlines, the role of transitional words and phrases can be reconsidered."></outline>
+					<outline created="Fri, 07 Jun 2013 05:01:25 GMT" text="In many, even most cases, where the outline is to be edited further into a more flowing, continuous piece of writing, in which the outline structure is effectively lost, transitional phrases will probably still need to be added. ">
+						<outline created="Fri, 07 Jun 2013 05:03:19 GMT" text="In a few cases, where the outline is published for further collaboration and change, the transitional phrases may not be needed."></outline>
+						<outline created="Tue, 11 Jun 2013 01:26:22 GMT" text="Style remains an important consideration. Where the text is intended to be informal or conversational, but, and, so etc are useful."></outline>
+						<outline created="Sat, 08 Jun 2013 09:43:17 GMT" icon="cut" text="In fact, "></outline>
+						</outline>
+					<outline created="Tue, 11 Jun 2013 01:25:13 GMT" text="Transitional and connective words and phrases can perhaps be seen as the 'plain text' version of a structured outline."></outline>
+					<outline created="Fri, 07 Jun 2013 05:06:56 GMT" text="Strunk &amp; White give an &lt;a href=&quot;http://www.bartleby.com/141/strunk5.html&quot;&gt;example&lt;/a&gt; from Stevenson's &lt;i&gt;Walking Tours&lt;/i&gt;, in which the author uses only three transitional words at the start of his sentences. Actually, none of these is required.">
+						<outline created="Fri, 07 Jun 2013 05:32:09 GMT" text="Writing can generally be improved by removing unnecessary transitions.">
+							<outline created="Sat, 08 Jun 2013 10:15:39 GMT" text="Even R. L. Stevenson's ! ">
+								<outline created="Tue, 11 Jun 2013 01:06:29 GMT" text="(Arguably)"></outline>
+								</outline>
+							</outline>
+						</outline>
+					</outline>
+				<outline created="Fri, 07 Jun 2013 04:58:46 GMT" text="How could outlines be used to teach the use of transitional words and phrases?">
+					<outline created="Fri, 07 Jun 2013 05:16:57 GMT" text="Using an outliner may help writers to see and improve the logical structure of their own ideas. ">
+						<outline created="Tue, 11 Jun 2013 01:03:05 GMT" text="Ideas can be jotted down quickly and then shifted around to make a better logical progression. "></outline>
+						<outline created="Fri, 07 Jun 2013 05:17:50 GMT" text="Where a group of ideas (i.e. sentences of paragraphs) is poorly structured, this can easily be changed."></outline>
+						<outline created="Tue, 11 Jun 2013 01:03:54 GMT" text="An outline template can provide a guide structure for a piece of writing."></outline>
+						</outline>
+					<outline created="Fri, 07 Jun 2013 05:18:28 GMT" text="Deliberately outlining &lt;i&gt;without&lt;/i&gt; connective or transitional words and phrases may help writers to recognise the ultimate importance of these in helping the reader make sense of the argument.">
+						<outline created="Tue, 11 Jun 2013 01:18:01 GMT" text="It's quite hard to write with no connective words at the start of outline nodes. This practice encourages the writer to consider which words are really necessary."></outline>
+						</outline>
+					<outline created="Tue, 11 Jun 2013 01:05:53 GMT" text="Where transitional phrases are missing, students could be given the task of selecting the most appropriate phrases to add.  "></outline>
+					<outline created="Tue, 11 Jun 2013 01:11:54 GMT" icon="cut" text="For example,"></outline>
+					<outline created="Tue, 11 Jun 2013 01:12:06 GMT" text="In this outline I have highlighted transitional phrases with a pair of scissors icon. If these were cut out, would the meaning change?">
+						<outline created="Tue, 11 Jun 2013 01:13:39 GMT" text="In some cases, the meaning surely would change. Or at least, the clarity and flow of the writing would be worse, not better."></outline>
+						<outline created="Tue, 11 Jun 2013 01:15:07 GMT" isComment="true" text="I'd like to be able to switch the transitional phrases on and off in the outline, collapsing and expanding just these nodes. Not sure how to do it. I guess some kind of tagging system could achieve the required effect. The icons themselves are basic tags, but they don't have much functionality."></outline>
+						</outline>
+					</outline>
+				</outline>
+			</outline>
+		<outline created="Tue, 11 Jun 2013 00:29:09 GMT" text="Adam Curry" type="profile" url="http://adam.smallpict.com">
+			<outline created="Tue, 11 Jun 2013 00:27:54 GMT" text="False Positives">
+				<outline created="Tue, 11 Jun 2013 00:28:00 GMT" text="@Rodney">
+					<outline created="Tue, 11 Jun 2013 00:28:11 GMT" text="I had the same experience, like Pavlov's dog I click on the 'bolted' tab, only to find it was digital fata morgana..."></outline>
+					</outline>
+				</outline>
+			</outline>
+		<outline created="Mon, 10 Jun 2013 21:04:22 GMT" text="Rodney Mitchell" type="profile" url="http://rodmitch.smallpict.com/">
+			<outline created="Mon, 10 Jun 2013 21:01:32 GMT" text="So many false-positive lightning bolts on the Community Feed. Such excitement followed by such disappointment...">
+				<outline created="Mon, 10 Jun 2013 21:03:51 GMT" text="There can't be that many invisible updates, right? Like a dozen times a day?"></outline>
+				</outline>
+			</outline>
+		<outline created="Sun, 09 Jun 2013 20:41:35 GMT" text="Theron Kelso" type="profile" url="http://theron.smallpict.com">
+			<outline created="Sun, 09 Jun 2013 20:41:23 GMT" text="Trex tease. "></outline>
+			</outline>
+		<outline created="Sun, 09 Jun 2013 03:50:03 GMT" text="Rodney Mitchell" type="profile" url="http://rodmitch.smallpict.com/">
+			<outline created="Sun, 09 Jun 2013 03:37:45 GMT" icon="rss" text="Usage notes viewing the community feed in the Reader on an old (2.2) Android phone (which I love to do because I don't want to miss anything):">
+				<outline created="Sun, 09 Jun 2013 03:39:01 GMT" text="I can open the link in Ken Smith's recent note but not Dave Winer's. "></outline>
+				<outline created="Sun, 09 Jun 2013 03:39:50 GMT" text="I can't open the third node in Ron Jeffries note (or any node that's not already open).">
+					<outline created="Sun, 09 Jun 2013 03:40:58 GMT" text="I can't open that unlinked url either."></outline>
+					</outline>
+				</outline>
+			</outline>
+		<outline created="Sat, 08 Jun 2013 21:42:55 GMT" text="Dave Winer" type="profile" url="http://dave.smallpict.com/">
+			<outline created="Sat, 08 Jun 2013 21:41:37 GMT" text="This piece by Mathew Ingram would be really good as an outline.">
+				<outline created="Sat, 08 Jun 2013 21:42:00 GMT" text="Mainly because it's constantly evolving and growing. "></outline>
+				<outline created="Sat, 08 Jun 2013 21:42:10 GMT" text="So much so that he just added a table of contents."></outline>
+				<outline created="Sat, 08 Jun 2013 21:42:17 GMT" text="Here's the link." type="link" url="http://gigaom.com/2013/06/07/through-a-prism-darkly-tracking-the-ongoing-nsa-surveillance-story/"></outline>
+				</outline>
+			</outline>
+		<outline created="Sat, 08 Jun 2013 21:16:37 GMT" text="Ken Smith" type="profile" url="http://smith.smallpict.com/">
+			<outline created="Sat, 08 Jun 2013 21:07:48 GMT" text="I'm considering putting together a little public service outline for South Bend, Indiana, with entries for the food stores where you might want to grab picnic foods from the deli. Here is &lt;a href=&quot;http://reader.smallpicture.com/?opmlurl=https%3A%2F%2Fdl.dropbox.com%2Fs%2Fxnuu4ndb40bweo5%2Fpicnic.opml&quot;&gt;the basic concept&lt;/a&gt;."></outline>
+			</outline>
+		<outline created="Sat, 08 Jun 2013 20:34:31 GMT" text="Ron K. Jeffries" type="profile" url="http://ronjeff.smallpict.com/">
+			<outline created="Sat, 08 Jun 2013 03:14:28 GMT" text="new-ish fargo users: in community feed, helpful hint:">
+				<outline created="Sat, 08 Jun 2013 20:32:18 GMT" text="If you see e.g.  a star icon by your name, that indicates  you have not established your fargo identity."></outline>
+				<outline created="Sat, 08 Jun 2013 20:31:46 GMT" text="http://worknotes.smallpicture.com/may2013/fargo061Identity">
+					<outline created="Sat, 08 Jun 2013 20:33:13 GMT" text="It's well worth your while to set up a profile."></outline>
+					<outline created="Sat, 08 Jun 2013 20:33:52 GMT" text="Highlight any top level node in community feed, and click the &quot;eye&quot; icon. You'll see. ;)"></outline>
+					</outline>
+				</outline>
+			</outline>
+		<outline created="Sat, 08 Jun 2013 19:03:56 GMT" text="Ken Smith" type="profile" url="http://smith.smallpict.com/">
+			<outline created="Sat, 08 Jun 2013 18:59:14 GMT" text="I notice that Word wraps some code poison around its lines and paragraphs so that a paragraph pasted from a Word doc or docx into Fargo comes out not as one node but as one node per line of text in the source paragraph--obviously a problem. I have pasted the same piece of text into the body of an email message in Gmail and in Outlook and then immediately copied it back out, without even sending the email, and the code poison is stripped away and the paragraph pastes into Fargo as a single node. ">
+				<outline created="Sat, 08 Jun 2013 19:02:46 GMT" text="This reminds me that Sakai, the online course software package that Indiana University and others use, has a text box you paste Word-sourced text into before Sakai wants to have anything to do with it. Presumably it serves the same function."></outline>
+				</outline>
+			</outline>
+		<outline created="Fri, 07 Jun 2013 22:49:08 GMT" text="Andrew Shell" type="profile" url="http://andrewshell.smallpict.com/">
+			<outline created="Fri, 07 Jun 2013 22:39:26 GMT" text="Fargo UI Suggestion" type="outline">
+				<outline created="Fri, 07 Jun 2013 22:39:26 GMT" text="Maybe I'm spoiled using Asana (a task management app) but when I'm in text, I press return and expect the text to the left of my cursor to stay where it is, and the text to the right of my cursor to move down to a new sibling node.  This would have the added benefit of being able to place my cursur at the start of the text and press return to move the text down to a new node, leaving me with a blank node where I started."></outline>
+				</outline>
+			</outline>
+		<outline created="Fri, 07 Jun 2013 21:18:45 GMT" text="Theron Kelso" type="profile" url="http://theron.smallpict.com">
+			<outline created="Fri, 07 Jun 2013 21:05:33 GMT" text="Great first day programming a kanban board using jQuery and SharePoint.">
+				<outline created="Fri, 07 Jun 2013 21:08:14 GMT" text="Yes, SharePoint."></outline>
+				<outline created="Fri, 07 Jun 2013 21:08:49 GMT" text="First time using outlines for user story management, and development."></outline>
+				<outline created="Fri, 07 Jun 2013 21:13:00 GMT" text="Wondering how we could:">
+					<outline created="Fri, 07 Jun 2013 21:14:35 GMT" text="Visualize outlines on a Kanban board; "></outline>
+					<outline created="Fri, 07 Jun 2013 21:15:25 GMT" text="Set limits on the number of child nodes and parent can have; and"></outline>
+					<outline created="Fri, 07 Jun 2013 21:17:29 GMT" text="Make SharePoint lists more Outline friendly."></outline>
+					</outline>
+				</outline>
+			</outline>
+		<outline created="Fri, 07 Jun 2013 19:26:41 GMT" text="Dave Winer" type="profile" url="http://dave.smallpict.com/">
+			<outline created="Fri, 07 Jun 2013 19:26:02 GMT" text="The community feed is like email. Once something is sent, it's been sent. "></outline>
+			</outline>
+		<outline created="Fri, 07 Jun 2013 17:04:49 GMT" text="Rodney Mitchell" type="profile" url="http://rodmitch.smallpict.com/">
+			<outline created="Fri, 07 Jun 2013 17:02:34 GMT" text="FYI, it is possible to remove or replace the &lt;i&gt;content &lt;/i&gt;of a published node and republish it."></outline>
+			</outline>
+		<outline created="Fri, 07 Jun 2013 01:35:01 GMT" icon="star-empty" text="Barbara Krasnoff">
+			<outline created="Fri, 07 Jun 2013 01:31:52 GMT" text="Apologies -- when I hit the Community Feed icon, I didn't realize it was public and can't quite figure out yet how to delete it. Please ignore my former post."></outline>
+			</outline>
+		<outline created="Thu, 06 Jun 2013 23:05:34 GMT" icon="star-empty" text="Barbara Krasnoff">
+			<outline created="Thu, 06 Jun 2013 20:55:58 GMT" icon="rss" text="So basically, I can use this in any of my devices (mobile?) and I can tweak it in a variety of ways. And I can add links. &lt;a href=&quot;krasnoff.wordpress.com&quot;&gt;krasnoff.wordpress.com&lt;/a&gt; (But not linking with different text.) And I can add RSS feeds. But that's about it.  it."></outline>
+			</outline>
+		<outline created="Thu, 06 Jun 2013 21:17:51 GMT" text="Betsy Kimak" type="profile" url="http://betsy.smallpict.com/">
+			<outline created="Thu, 06 Jun 2013 20:27:29 GMT" icon="bolt" text="2:27:29PM">
+				<outline created="Thu, 06 Jun 2013 20:27:29 GMT" text="@Ken, ditto, exciting. "></outline>
+				<outline created="Thu, 06 Jun 2013 20:28:08 GMT" text="I'm thinking of starting a new blog, and using Fargo. "></outline>
+				<outline created="Thu, 06 Jun 2013 20:36:32 GMT" text="Would want to point a domain to it and theme a design. "></outline>
+				<outline created="Thu, 06 Jun 2013 20:38:05 GMT" text="The Dropbox public folder issue would be a limiter but I can host pics.  "></outline>
+				<outline created="Thu, 06 Jun 2013 21:02:01 GMT" text="Wondering about the Fargo roadmap and if I should wait..."></outline>
+				</outline>
+			</outline>
+		<outline created="Thu, 06 Jun 2013 20:44:06 GMT" text="Dave Winer" type="profile" url="http://dave.smallpict.com/">
+			<outline created="Thu, 06 Jun 2013 20:43:51 GMT" text="Fargo 0.77 is up." type="link" url="http://worknotes.smallpicture.com/june2013/fargo077"></outline>
+			</outline>
+		<outline created="Thu, 06 Jun 2013 20:32:38 GMT" text="Theron Kelso" type="profile" url="http://theron.smallpict.com">
+			<outline created="Thu, 06 Jun 2013 20:25:41 GMT" text="Used Fargo.io and Little Outliner to create and deliver a presentation yesterday.">
+				<outline created="Thu, 06 Jun 2013 20:26:41 GMT" text="Creating the presentation was a snap. &lt;a href=&quot;http://reader.smallpicture.com/?opmlurl=https%3A%2F%2Fdl.dropbox.com%2Fs%2F5vi9kjst1tzsjxt%2Fpresentation.opml&quot;&gt;Here&lt;/a&gt; is a link to my steps. I hope at some point the Little Outliner step won't be necessary."></outline>
+				<outline created="Thu, 06 Jun 2013 20:28:28 GMT" text="The presentation itself was a little bland - which was okay. But the presenter was engaging! :) "></outline>
+				<outline created="Thu, 06 Jun 2013 20:29:06 GMT" text="Lot's of questions about Fargo. I hope to see more people I know popping in."></outline>
+				</outline>
+			</outline>
+		</body>
+	</opml>

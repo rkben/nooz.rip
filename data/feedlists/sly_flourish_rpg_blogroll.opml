@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Sly subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="RPGs" title="RPGs">
+            <outline type="rss" text="Keith Baker's Blog" title="Keith Baker's Blog" xmlUrl="http://keith-baker.com/feed/" htmlUrl="https://keith-baker.com"/>
+            <outline type="rss" text="Dweller of the Forbidden City" title="Dweller of the Forbidden City" xmlUrl="http://dwelleroftheforbiddencity.blogspot.com/feeds/posts/default" htmlUrl="http://dwelleroftheforbiddencity.blogspot.com/"/>
+            <outline type="rss" text="Brandes Stoddard" title="Brandes Stoddard" xmlUrl="http://www.brandesstoddard.com/feed/" htmlUrl="https://www.brandesstoddard.com"/>
+            <outline type="rss" text="RJD20" title="RJD20" xmlUrl="http://www.rjd20.com/feeds/posts/default?alt=rss" htmlUrl="https://www.rjd20.com/"/>
+            <outline type="rss" text="EN World Tabletop RPG News &amp; Reviews" title="EN World Tabletop RPG News &amp; Reviews" xmlUrl="https://www.enworld.org/ewr-porta/index.rss" htmlUrl="https://www.enworld.org/"/>
+            <outline type="rss" text="Roleplaying Tips" title="Roleplaying Tips" xmlUrl="http://www.roleplayingtips.com/rss/roleplayingtips2.xml" htmlUrl="https://www.roleplayingtips.com/"/>
+            <outline type="rss" text="Posts" title="Posts" xmlUrl="http://www.dndbeyond.com/posts.rss" htmlUrl="http://www.dndbeyond.com/posts"/>
+            <outline type="rss" text="About Bruce Heard and New Stories" title="About Bruce Heard and New Stories" xmlUrl="http://bruce-heard.blogspot.com/feeds/posts/default" htmlUrl="https://bruce-heard.blogspot.com/"/>
+            <outline type="rss" text="Dungeon Fantastic" title="Dungeon Fantastic" xmlUrl="http://dungeonfantastic.blogspot.com/feeds/posts/default" htmlUrl="http://dungeonfantastic.blogspot.com/"/>
+            <outline type="rss" text="Schwalb Entertainment" title="Schwalb Entertainment" xmlUrl="http://www.robertjschwalb.com/feed/" htmlUrl="https://schwalbentertainment.com/"/>
+            <outline type="rss" text="No INT here - Dump Stat Adventures" title="No INT here - Dump Stat Adventures" xmlUrl="https://dumpstatadventures.com/blog?format=rss" htmlUrl="https://dumpstatadventures.com/blog/"/>
+            <outline type="rss" text="Scroll for Initiative" title="Scroll for Initiative" xmlUrl="https://www.scrollforinitiative.com/feed/" htmlUrl="https://scrollforinitiative.com"/>
+            <outline type="rss" text="DMDavid" title="DMDavid" xmlUrl="http://dmdavid.com/feed/" htmlUrl="https://dmdavid.com"/>
+            <outline type="rss" text="A Knight at the Opera" title="A Knight at the Opera" xmlUrl="https://knightattheopera.blogspot.com/feeds/posts/default" htmlUrl="https://knightattheopera.blogspot.com/"/>
+            <outline type="rss" text="Rob Heinsoo" title="Rob Heinsoo" xmlUrl="http://robheinsoo.blogspot.com/feeds/posts/default" htmlUrl="http://robheinsoo.blogspot.com/"/>
+            <outline type="rss" text="DM Micycle" title="DM Micycle" xmlUrl="https://dmmicycle.blogspot.com/feeds/posts/default" htmlUrl="https://dmmicycle.blogspot.com/"/>
+            <outline type="rss" text="The CORE20 RPG System" title="The CORE20 RPG System" xmlUrl="https://core20rpg.wordpress.com/feed/" htmlUrl="https://core20rpg.wordpress.com"/>
+            <outline type="rss" text="Bones of Contention" title="Bones of Contention" xmlUrl="https://bonesofcontention.blogspot.com/feeds/posts/default" htmlUrl="https://bonesofcontention.blogspot.com/"/>
+            <outline type="rss" text="Dyson's Dodecahedron" title="Dyson's Dodecahedron" xmlUrl="http://rpgcharacters.wordpress.com/feed/" htmlUrl="https://dysonlogos.blog"/>
+            <outline type="rss" text="The Tao of D&amp;D" title="The Tao of D&amp;D" xmlUrl="http://tao-dnd.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://tao-dnd.blogspot.com/"/>
+            <outline type="rss" text="Sojourners Awake" title="Sojourners Awake" xmlUrl="https://sojournersawake.com/feed/" htmlUrl="https://sojournersawake.com"/>
+            <outline type="rss" text="Kobold Press" title="Kobold Press" xmlUrl="http://www.koboldpress.com/feed/" htmlUrl="https://midgardmap.koboldpress.com/"/>
+            <outline type="rss" text="Jon Bupp" title="Jon Bupp" xmlUrl="https://jonbupp.wordpress.com/feed/" htmlUrl="https://jonbupp.wordpress.com"/>
+            <outline type="rss" text="The Pastel Dungeon" title="The Pastel Dungeon" xmlUrl="https://thepasteldungeon.blogspot.com/feeds/posts/default" htmlUrl="https://thepasteldungeon.blogspot.com/"/>
+            <outline type="rss" text="The GM Is Always Right - Dump Stat Adventures" title="The GM Is Always Right - Dump Stat Adventures" xmlUrl="https://dumpstatadventures.com/the-gm-is-always-right?format=rss" htmlUrl="https://dumpstatadventures.com/the-gm-is-always-right/"/>
+            <outline type="rss" text="Inkwell Ideas" title="Inkwell Ideas" xmlUrl="http://inkwellideas.com/?feed=rss2" htmlUrl="https://inkwellideas.com"/>
+            <outline type="rss" text="The Monsters Know What They’re Doing" title="The Monsters Know What They’re Doing" xmlUrl="http://themonstersknow.com/feed/" htmlUrl="https://www.themonstersknow.com/"/>
+            <outline type="rss" text="Arcane Eye" title="Arcane Eye" xmlUrl="https://arcaneeye.com/feed/" htmlUrl="https://arcaneeye.com/"/>
+            <outline type="rss" text="Grumpy Wizard" title="Grumpy Wizard" xmlUrl="https://grumpywizard.home.blog/feed/" htmlUrl="https://grumpywizard.home.blog"/>
+            <outline type="rss" text="Seed of Worlds" title="Seed of Worlds" xmlUrl="http://seedofworlds.blogspot.com/feeds/posts/default" htmlUrl="https://seedofworlds.blogspot.com/"/>
+            <outline type="rss" text="directsun games" title="directsun games" xmlUrl="https://directsungames.blogspot.com/feeds/posts/default" htmlUrl="https://directsungames.blogspot.com/"/>
+            <outline type="rss" text="D&amp;D Duet" title="D&amp;D Duet" xmlUrl="https://dndduet.com/feed/" htmlUrl="https://dndduet.com/"/>
+            <outline type="rss" text="SkullSplitter Dice - DND" title="SkullSplitter Dice - DND" xmlUrl="https://www.skullsplitterdice.com/blogs/dnd.atom" htmlUrl="https://www.skullsplitterdice.com/blogs/dnd"/>
+            <outline type="rss" text="Dice Goblin" title="Dice Goblin" xmlUrl="https://dicegoblin.blog/feed/" htmlUrl="https://dicegoblin.blog"/>
+            <outline type="rss" text="mindstorm" title="mindstorm" xmlUrl="https://mindstorm.blot.im/feed.rss" htmlUrl="https://mindstorm.blot.im"/>
+            <outline type="rss" text="Loot The Room" title="Loot The Room" xmlUrl="https://loottheroom.uk/feed" htmlUrl="https://loottheroom.uk"/>
+            <outline type="rss" text="Tribality" title="Tribality" xmlUrl="http://tribality.com/feed/" htmlUrl="https://www.tribality.com/"/>
+            <outline type="rss" text="Mycoleum Mind" title="Mycoleum Mind" xmlUrl="https://peakrill.substack.com/feed" htmlUrl="https://peakrill.substack.com"/>
+            <outline type="rss" text="Merric's Musings" title="Merric's Musings" xmlUrl="http://merricb.com/feed/" htmlUrl="https://merricb.com/"/>
+            <outline type="rss" text="The Kind GM" title="The Kind GM" xmlUrl="https://thekindgm.wordpress.com/feed/" htmlUrl="https://thekindgm.com"/>
+            <outline type="rss" text="Pelgrane Press Ltd" title="Pelgrane Press Ltd" xmlUrl="http://www.pelgranepress.com/?feed=rss2" htmlUrl="https://pelgranepress.com"/>
+            <outline type="rss" text="All Dead Generations" title="All Dead Generations" xmlUrl="http://alldeadgenerations.blogspot.com/feeds/posts/default" htmlUrl="https://alldeadgenerations.blogspot.com/"/>
+            <outline type="rss" text="Sly Flourish" title="Sly Flourish" xmlUrl="http://slyflourish.com/index.xml" htmlUrl="https://slyflourish.com/"/>
+            <outline type="rss" text="Elfmaids &amp; Octopi" title="Elfmaids &amp; Octopi" xmlUrl="http://elfmaidsandoctopi.blogspot.com/feeds/posts/default" htmlUrl="http://elfmaidsandoctopi.blogspot.com/"/>
+            <outline type="rss" text="Dragon Talk - An Official Dungeons &amp; Dragons Podcast" title="Dragon Talk - An Official Dungeons &amp; Dragons Podcast" xmlUrl="http://www.wizards.com/dnd/rsspodcast.xml" htmlUrl="https://www.dndbeyond.com/"/>
+            <outline type="rss" text="The Grisly Eye" title="The Grisly Eye" xmlUrl="https://grislyeye.com/rss.xml" htmlUrl="https://grislyeye.com/"/>
+            <outline type="rss" text="The Walking Mind" title="The Walking Mind" xmlUrl="http://walkingmind.evilhat.com/feed/" htmlUrl="http://walkingmind.evilhat.com"/>
+            <outline type="rss" text="Green Ronin Publishing" title="Green Ronin Publishing" xmlUrl="http://greenronin.com/feed/" htmlUrl="https://greenronin.com/green-ronin-publishing/"/>
+            <outline type="rss" text="Richard Green | Game Designer" title="Richard Green | Game Designer" xmlUrl="https://richardgreengames.com/feed/" htmlUrl="https://richardgreengames.com"/>
+            <outline type="rss" text="How to Succeed in RPGs or Die Trying" title="How to Succeed in RPGs or Die Trying" xmlUrl="http://psychicmayhem.blogspot.com/feeds/posts/default" htmlUrl="http://psychicmayhem.blogspot.com/"/>
+            <outline type="rss" text="d4 Caltrops" title="d4 Caltrops" xmlUrl="http://blog.d4caltrops.com/feeds/posts/default?alt=rss" htmlUrl="https://blog.d4caltrops.com/"/>
+            <outline type="rss" text="Azukail Games" title="Azukail Games" xmlUrl="http://azukailgames.com/feed/" htmlUrl="https://azukailgames.com"/>
+            <outline type="rss" text="The Glatisant: A Questing Beast Newsletter" title="The Glatisant: A Questing Beast Newsletter" xmlUrl="https://questingbeast.substack.com/feed/" htmlUrl="https://questingbeast.substack.com"/>
+            <outline type="rss" text="Cavegirl's Game Stuff" title="Cavegirl's Game Stuff" xmlUrl="https://cavegirlgames.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://cavegirlgames.blogspot.com/"/>
+            <outline type="rss" text="Gnome Stew" title="Gnome Stew" xmlUrl="http://feeds.feedburner.com/GnomeStew" htmlUrl="https://gnomestew.com"/>
+            <outline type="rss" text="The Gameatory" title="The Gameatory" xmlUrl="https://www.thegameatory.com/rss/" htmlUrl="https://www.thegameatory.com/"/>
+            <outline type="rss" text="Tabletop Joab" title="Tabletop Joab" xmlUrl="https://tabletopjoab.com/feed/" htmlUrl="https://tabletopjoab.com/"/>
+            <outline type="rss" text="Flutes Loot" title="Flutes Loot" xmlUrl="https://www.flutesloot.com/feed/" htmlUrl="https://www.flutesloot.com/"/>
+            <outline type="rss" text="Elven Tower Adventures" title="Elven Tower Adventures" xmlUrl="http://www.elventower.com/feed" htmlUrl="https://www.elventower.com/"/>
+            <outline type="rss" text="Raging Owlbear" title="Raging Owlbear" xmlUrl="http://ragingowlbear.blogspot.com/feeds/posts/default" htmlUrl="http://ragingowlbear.blogspot.com/"/>
+            <outline type="rss" text="Throne of Salt" title="Throne of Salt" xmlUrl="http://throneofsalt.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://throneofsalt.blogspot.com/"/>
+            <outline type="rss" text="Monte Cook Games" title="Monte Cook Games" xmlUrl="http://www.montecookgames.com/feed/" htmlUrl="https://www.montecookgames.com/"/>
+            <outline type="rss" text="GROGNARDIA" title="GROGNARDIA" xmlUrl="http://grognardia.blogspot.com/feeds/posts/default" htmlUrl="http://grognardia.blogspot.com/"/>
+            <outline type="rss" text="Dungeon Mastering" title="Dungeon Mastering" xmlUrl="http://feeds.feedburner.com/DungeonMastering" htmlUrl="https://www.dungeonmastering.com"/>
+            <outline type="rss" text="Beneath Foreign Planets" title="Beneath Foreign Planets" xmlUrl="https://foreignplanets.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://foreignplanets.blogspot.com/"/>
+            <outline type="rss" text="Indre Auge Blinks" title="Indre Auge Blinks" xmlUrl="https://blog.indre-auge.studio/feed/" htmlUrl="https://blog.indre-auge.studio"/>
+            <outline type="rss" text="DIY &amp; dragons" title="DIY &amp; dragons" xmlUrl="https://diyanddragons.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://diyanddragons.blogspot.com/"/>
+            <outline type="rss" text="Rise Up Comus" title="Rise Up Comus" xmlUrl="http://riseupcomus.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://riseupcomus.blogspot.com/"/>
+            <outline type="rss" text="From the Sorcerer's Skull" title="From the Sorcerer's Skull" xmlUrl="http://sorcerersskull.blogspot.com/feeds/posts/default" htmlUrl="http://sorcerersskull.blogspot.com/"/>
+            <outline type="rss" text="ChicagoWiz's Games" title="ChicagoWiz's Games" xmlUrl="http://chgowiz-games.blogspot.com/feeds/posts/default" htmlUrl="https://chgowiz-games.blogspot.com/"/>
+            <outline type="rss" text="Dungeon Master Assistance" title="Dungeon Master Assistance" xmlUrl="http://olddungeonmaster.wordpress.com/feed/" htmlUrl="https://olddungeonmaster.com"/>
+            <outline type="rss" text="Alphastream" title="Alphastream" xmlUrl="http://alphastream.org/index.php/feed/" htmlUrl="https://alphastream.org"/>
+            <outline type="rss" text="Blog of Holding" title="Blog of Holding" xmlUrl="http://blogofholding.com/?feed=rss2" htmlUrl="https://www.blogofholding.com"/>
+            <outline type="rss" text="The Alexandrian" title="The Alexandrian" xmlUrl="http://thealexandrian.net/feed" htmlUrl="https://thealexandrian.net"/>
+            <outline type="rss" text="Dndspeak" title="Dndspeak" xmlUrl="http://dndspeak.com/feed/" htmlUrl="https://www.dndspeak.com/"/>
+            <outline type="rss" text="Campaign Mastery" title="Campaign Mastery" xmlUrl="http://feeds.feedburner.com/CampaignMastery" htmlUrl="http://www.campaignmastery.com/blog"/>
+            <outline type="rss" text="Power Score" title="Power Score" xmlUrl="http://thecampaign20xx.blogspot.com/feeds/posts/default" htmlUrl="http://thecampaign20xx.blogspot.com/"/>
+            <outline type="rss" text="Nerdarchy" title="Nerdarchy" xmlUrl="http://nerdarchy.com/feed/" htmlUrl="https://nerdarchy.com"/>
+            <outline type="rss" text="Sheep and Sorcery" title="Sheep and Sorcery" xmlUrl="https://sheepandsorcery.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://sheepandsorcery.blogspot.com/"/>
+            <outline type="rss" text="Bat in the Attic" title="Bat in the Attic" xmlUrl="http://batintheattic.blogspot.com/feeds/posts/default" htmlUrl="https://batintheattic.blogspot.com/"/>
+            <outline type="rss" text="The Dododecahedron" title="The Dododecahedron" xmlUrl="https://dododecahedron.blog/feed/" htmlUrl="https://dododecahedron.blog"/>
+        </outline>
+    </body>
+</opml>

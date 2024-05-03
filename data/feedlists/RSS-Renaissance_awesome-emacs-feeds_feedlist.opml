@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><opml version="1.0"><head><title>导出订阅</title></head><body><outline text="ios" title="ios" >
+<outline text="Planet Emacsen" title="Planet Emacsen" type="rss" xmlUrl="http://planet.emacsen.org/atom.xml" htmlUrl="http://planet.emacsen.org/"/>
+<outline text="M-x emacs-reddit" title="M-x emacs-reddit" type="rss" xmlUrl="https://www.reddit.com/r/emacs.rss" htmlUrl="https://www.reddit.com/r/emacs/"/>
+<outline text="Hacker News - Newest: "emacs"" title="Hacker News - Newest: "emacs"" type="rss" xmlUrl="https://hnrss.org/newest?q=emacs" htmlUrl="https://news.ycombinator.com/newest"/>
+<outline text="Org-Mode reddit" title="Org-Mode reddit" type="rss" xmlUrl="https://www.reddit.com/r/orgmode.rss" htmlUrl="https://www.reddit.com/r/orgmode/"/>
+<outline text="( s p a c e m a c s ) reddit" title="( s p a c e m a c s ) reddit" type="rss" xmlUrl="https://www.reddit.com/r/spacemacs.rss" htmlUrl=" s p a c e m a c s "/></outline></body></opml>

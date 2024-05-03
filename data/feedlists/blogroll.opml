@@ -1,0 +1,169 @@
+<html>
+	<head>
+		<title id="idPageTitle">Blogroll</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<script src="//s3.amazonaws.com/scripting.com/code/includes/jquery-1.9.1.min.js"></script>
+		<link href="//s3.amazonaws.com/scripting.com/code/includes/bootstrap.css" rel="stylesheet">
+		<script src="//s3.amazonaws.com/scripting.com/code/includes/bootstrap.min.js"></script>
+		<link rel="stylesheet" href="//s3.amazonaws.com/scripting.com/code/fontawesome/5.12.0/css/all.css">
+		<link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
+		<script src="//s3.amazonaws.com/scripting.com/code/includes/basic/code.js"></script>
+		<link href="//s3.amazonaws.com/scripting.com/code/includes/basic/styles.css" rel="stylesheet" type="text/css">
+
+		<script src="//s3.amazonaws.com/api.nodestorage.io/api.js"></script>
+		<script src="//s3.amazonaws.com/fargo.io/code/shared/emojify.js"></script>
+		<link rel="stylesheet" href="//s3.amazonaws.com/fargo.io/code/shared/emojify.css"/>
+		<script src="//s3.amazonaws.com/fargo.io/code/markdownConverter.js"></script>
+		<script src="//s3.amazonaws.com/fargo.io/cms/dateFormat.js"></script>
+
+		<script src="//s3.amazonaws.com/scripting.com/code/outlinebrowser/code.js"></script>
+		<link href="//s3.amazonaws.com/scripting.com/code/outlinebrowser/styles.css" rel="stylesheet" type="text/css">
+
+		<script src="//s3.amazonaws.com/fargo.io/code/shared/xml.js"></script>
+		<script src="//s3.amazonaws.com/fargo.io/code/shared/reader.js"></script>
+		<script src="//s3.amazonaws.com/scripting.com/code/opmlpackage/client/opml.js"></script>
+		<script src="//s3.amazonaws.com/scripting.com/code/pagepark/templates/opml/code.js"></script>
+		<link href="//s3.amazonaws.com/scripting.com/code/pagepark/templates/opml/styles.css" rel="stylesheet" type="text/css">
+
+		<!-- Facebook metadata -->
+			<meta property="og:url" content="http://this.how/blogroll.opml" />
+			<meta property="og:type" content="website" />
+			<meta property="og:title" content="Blogroll" />
+			<meta property="og:description" content="Scripting News, the weblog started in 1994 that bootstrapped the blogging revolution. 🚀" />
+			<meta property="og:image" content="" />
+			<meta property="og:site_name" content="" />
+		<!-- Twitter metadata -->
+			<meta name="twitter:card" content="summary_large_image">
+			<meta name="twitter:site" content="@davewiner">
+			<meta name="twitter:title" content="Blogroll">
+			<meta name="twitter:description" content="Scripting News, the weblog started in 1994 that bootstrapped the blogging revolution. 🚀">
+			<meta name="twitter:image:src" content="">
+
+		<script>
+			var jstruct = {
+    "opml": {
+        "version": "2.0",
+        "head": {
+            "title": "Blogroll",
+            "flPublic": "true",
+            "longTitle": "Editorial outline for Scripting News",
+            "description": "Scripting News, the weblog started in 1994 that bootstrapped the blogging revolution. 🚀",
+            "dateModified": "Mon, 13 Aug 2018 16:31:55 GMT",
+            "expansionState": "",
+            "lastCursor": "7",
+            "ownerId": "https://twitter.com/davewiner/",
+            "ownerName": "scripting.com",
+            "ownerTwitterScreenName": "davewiner",
+            "urlUpdateSocket": "ws://electricserver.scripting.com:5383/",
+            "copyright": "&copy; 1994-2018 <a href=\"http://davewiner.com/\">Dave Winer</a>.",
+            "ownerFacebookAccount": "dave.winer.12",
+            "ownerGithubAccount": "scripting",
+            "ownerLinkedinAccount": "scripting",
+            "disqusGroup": "scripting",
+            "type": "blogpost",
+            "urlPublic": "http://scripting.com/",
+            "urlJson": "http://electricserver.scripting.com/users/davewiner/electric/blog.json",
+            "urInstant": "http://instantoutliner.com/61",
+            "oldSchoolBlogName": "dave",
+            "generator": "opmltojs v0.4.14"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "Joe Moreno",
+                    "created": "Thu, 12 Jul 2018 16:20:58 GMT",
+                    "type": "link",
+                    "url": "http://blog.joemoreno.com/"
+                },
+                {
+                    "text": "Doc Searls",
+                    "created": "Thu, 12 Jul 2018 17:21:21 GMT",
+                    "type": "link",
+                    "url": "http://blogs.harvard.edu/doc/"
+                },
+                {
+                    "text": "Brent Simmons",
+                    "created": "Thu, 12 Jul 2018 17:21:58 GMT",
+                    "type": "link",
+                    "url": "http://inessential.com/"
+                },
+                {
+                    "text": "Aral Balkan",
+                    "created": "Fri, 20 Jul 2018 19:11:19 GMT",
+                    "type": "link",
+                    "url": "http://ar.al/"
+                },
+                {
+                    "text": "Om Malik",
+                    "created": "Thu, 26 Jul 2018 20:11:59 GMT",
+                    "type": "link",
+                    "url": "https://om.co/"
+                },
+                {
+                    "text": "Davis Shaver",
+                    "created": "Thu, 09 Aug 2018 14:23:15 GMT",
+                    "type": "link",
+                    "url": "https://davisshaver.com/"
+                },
+                {
+                    "text": "Jon Udell",
+                    "created": "Mon, 13 Aug 2018 16:30:47 GMT",
+                    "type": "link",
+                    "url": "https://blog.jonudell.net/"
+                },
+                {
+                    "text": "Johannes Ernst",
+                    "created": "Mon, 13 Aug 2018 16:31:41 GMT",
+                    "type": "link",
+                    "url": "https://upon2020.com/blog/"
+                }
+            ]
+        }
+    }
+};
+			</script>
+		<style>
+
+			/* 11/24/22 by DW */
+				.divRenderedOutline .divOutlineText {
+					font-family: "Ubuntu";
+					font-size: 20px;
+					line-height: 140%;
+					}
+
+			</style>
+		</head>
+	<body>
+		<div class="divPageBody">
+			<div class="divOutlineContainer" id="idOutlineContainer" style="display: none;">
+				<div class="divXmlIcon" id="idXmlIcon"></div>
+				<div class="divLastUpdate"><b>Last update</b>: <span id="idWhenLastUpdate"></span>.</div>
+				<div class="divOutlineTitle" id="idOutlineTitle">
+					</div>
+				<div class="divOutlineDescription" id="idOutlineDescription">
+					</div>
+				<div class="divOutlineDisplayer" id="idOutlineDisplayer">
+					</div>
+				<div class="divWhenCreated"><b>Posted</b>: <span id="idWhenCreated"></span>.</div>
+				<div class="divOutlineFooter" id="idOutlineFooter">
+					</div>
+				<div class="divComments" id="idComments">
+					<div id="disqus_thread"></div>
+					</div>
+				</div>
+			</div>
+		<script>
+			if (location.host == "this.how") { //7/15/23 by DW
+				if (location.protocol == "http:") {
+					location.href = "https://this.how" + location.pathname; //redirect
+					}
+				}
+
+			$(document).ready (function () {
+				startup ();
+				});
+			</script>
+		</body>
+	</html>

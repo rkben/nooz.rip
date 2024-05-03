@@ -1,0 +1,82 @@
+<!doctype html>
+<html>
+  <head>
+    <title>nooz.rip || {{ article.title }} - {{ article.source_name }}</title>
+    <meta charset="UTF-8" />
+    <meta property="robots" content="noindex, nofollow" />
+    <meta property="description" content="{{ article.summary }}" />
+    <meta property="og:image" content="{{ article.banner_img }}" />
+    <meta property="og:title" content="{{ article.title }}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://nooz.rip/{{ article.url|safe }}" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/static/0.css" />
+    <style>
+      label {
+        display: block;
+        overflow: hidden;
+      }
+
+      .dbg-content {
+        position: relative;
+        padding: 0;
+        max-height: 0px;
+        @include transition(max-height 0.3s linear);
+      }
+
+      input[type="checkbox"] {
+        display: none;
+      }
+
+      input[type="checkbox"]:checked + h3 {
+        background: #262626;
+      }
+
+      input[type="checkbox"]:checked + h3 + .dbg-content {
+        max-height: 555px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="sticky">
+      <h3>THIS IS A WIP! INFORMATION FROM THE ORIGINAL PAGE MAY BE MISSING</h3>
+    </div>
+    <h1>{{ article.title }}</h1>
+    <figure>
+      <img src="{{ article.banner_img }}" loading="lazy" />
+      <figcaption>{{article.summary|safe}}</figcaption>
+    </figure>
+    <div>{{ article.body|safe }}</div>
+    <div>
+      <label for="dbg-external">
+        <input id="dbg-external" type="checkbox" />
+        <h3 style="color: #e13939">debug:external</h3>
+        <div class="dbg-content">
+          <ul>
+            <li><b>Author:</b> {{ article.authors }}</li>
+            <li><b>Date:</b> {{ article.date }}</li>
+            <li><b>Host:</b> {{ article.source_name }}</li>
+            <li>
+              <b>URL:</b>
+              <a href="{{ article.url|safe }}">{{ article.url|safe }}</a>
+            </li>
+          </ul>
+        </div>
+      </label>
+      <label for="dbg-internal">
+        <input id="dbg-internal" type="checkbox" />
+        <h3 style="color: #57ed57">debug:internal</h3>
+        <div class="dbg-content">
+          <ul>
+            <li><b>ID:</b> {{ article.id }}</li>
+            <li><b>Version:</b> {{ article.version }}</li>
+            <li><b>Created:</b> {{ article.created_at }}</li>
+            <li><b>Fetch Time:</b> {{ article.fetch_time }}</li>
+            <li><b>Parse Time:</b> {{ article.parse_time }}</li>
+            <li><b>NER Time:</b> {{ article.ner_time }}</li>
+          </ul>
+        </div>
+      </label>
+    </div>
+  </body>
+</html>

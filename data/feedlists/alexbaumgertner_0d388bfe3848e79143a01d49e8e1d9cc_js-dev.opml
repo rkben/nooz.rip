@@ -1,0 +1,46 @@
+<opml version="1.0">
+<head>
+<title>
+Feeds of Alexander Baumgertner tagged as dev from Inoreader [https://www.inoreader.com]
+</title>
+</head>
+<body>
+<outline text="dev" title="dev">
+<outline text="Blog – Snyk" title="Blog – Snyk" type="rss" xmlUrl="https://snyk.io/blog/feed/" htmlUrl="https://snyk.io/"/>
+<outline text="2pegramming" title="2pegramming" type="rss" xmlUrl="https://t.me/pepegramming" htmlUrl="https://t.me/pepegramming"/>
+<outline text="web.dev" title="web.dev" type="rss" xmlUrl="https://web.dev/feed.xml" htmlUrl="https://web.dev/"/>
+<outline text="Next.js Blog" title="Next.js Blog" type="rss" xmlUrl="https://nextjs.org/feed.xml" htmlUrl="https://nextjs.org/"/>
+<outline text="TheCodeBarbarian.com" title="TheCodeBarbarian.com" type="rss" xmlUrl="http://thecodebarbarian.com/feed.xml" htmlUrl="http://thecodebarbarian.com/"/>
+<outline text="FrontEnd Focus" title="FrontEnd Focus" type="rss" xmlUrl="http://frontendfocus.co/rss/1e4m5lnd" htmlUrl="http://html5weekly.com/"/>
+<outline text="Blog – Snyk" title="Blog – Snyk" type="rss" xmlUrl="https://snyk.io/blog/feed.xml" htmlUrl="https://snyk.io/blog"/>
+<outline text="Kent C. Dodds Blog" title="Kent C. Dodds Blog" type="rss" xmlUrl="https://kentcdodds.com/blog/rss.xml" htmlUrl="https://kentcdodds.com/"/>
+<outline text="Chromium Blog" title="Chromium Blog" type="rss" xmlUrl="http://blog.chromium.org/feeds/posts/default" htmlUrl="http://blog.chromium.org/"/>
+<outline text="melikhov.dev" title="melikhov.dev" type="rss" xmlUrl="https://t.me/melikhov_dev" htmlUrl="https://t.me/melikhov_dev"/>
+<outline text="GitHub Changelog" title="GitHub Changelog" type="rss" xmlUrl="https://blog.github.com/changelog/all.atom" htmlUrl="https://blog.github.com/"/>
+<outline text="V8" title="V8" type="rss" xmlUrl="https://v8.dev/blog.atom" htmlUrl="https://v8.dev/"/>
+<outline text="Node Weekly" title="Node Weekly" type="rss" xmlUrl="http://nodeweekly.com/rss/1j9a0ll9" htmlUrl="http://nodeweekly.com/"/>
+<outline text="React" title="React" type="rss" xmlUrl="http://facebook.github.io/react/feed.xml" htmlUrl="http://facebook.github.io/react"/>
+<outline text="2ality – JavaScript and more" title="2ality – JavaScript and more" type="rss" xmlUrl="https://2ality.com/feeds/posts.atom" htmlUrl="https://2ality.com/"/>
+<outline text="Babel Blog" title="Babel Blog" type="rss" xmlUrl="https://babeljs.io/blog/feed.xml" htmlUrl="https://babeljs.io/blog"/>
+<outline text="CSS-LIVE" title="CSS-LIVE" type="rss" xmlUrl="http://feeds.feedburner.com/css-live" htmlUrl="http://css-live.ru/"/>
+<outline text="Mozilla Security Blog" title="Mozilla Security Blog" type="rss" xmlUrl="http://blog.mozilla.com/security/feed/" htmlUrl="https://blog.mozilla.org/security"/>
+<outline text="Chrome Developers - Blog" title="Chrome Developers - Blog" type="rss" xmlUrl="https://developer.chrome.com/feeds/blog.xml" htmlUrl="https://developer.chrome.com/blog"/>
+<outline text="Wes Bos" title="Wes Bos" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoebwHSTvwalADTJhps0emA" htmlUrl="http://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA"/>
+<outline text="Mozilla Hacks – the Web developer blog" title="Mozilla Hacks – the Web developer blog" type="rss" xmlUrl="http://hacks.mozilla.org/feed/" htmlUrl="https://hacks.mozilla.org/"/>
+<outline text="JavaScript Weekly" title="JavaScript Weekly" type="rss" xmlUrl="http://javascriptweekly.com/rss" htmlUrl="http://javascriptweekly.com/"/>
+<outline text="NGINX" title="NGINX" type="rss" xmlUrl="http://nginx.com/feed/rss" htmlUrl="http://nginx.com/"/>
+<outline text="Stories by GlobalCheck on Medium" title="Stories by GlobalCheck on Medium" type="rss" xmlUrl="https://medium.com/feed/@globalcheck" htmlUrl="https://medium.com/@globalcheck?source=rss-97a1b418254f------2"/>
+<outline text="Hacker Noon - frontend" title="Hacker Noon - frontend" type="rss" xmlUrl="https://hackernoon.com/tagged/frontend/feed" htmlUrl="http://github.com/dylang/node-rss"/>
+<outline text="Docker" title="Docker" type="rss" xmlUrl="http://blog.docker.io/feed/" htmlUrl="http://blog.docker.com/"/>
+<outline text="The WebStorm Blog : The Smartest JavaScript IDE | The JetBrains Blog" title="The WebStorm Blog : The Smartest JavaScript IDE | The JetBrains Blog" type="rss" xmlUrl="http://blog.jetbrains.com/webstorm/feed/" htmlUrl="http://blog.jetbrains.com/webstorm"/>
+<outline text="React Digest" title="React Digest" type="rss" xmlUrl="http://feeds.feedburner.com/digest-react" htmlUrl="http://reactdigest.net/"/>
+<outline text="The GitHub Blog: Engineering News and Updates" title="The GitHub Blog: Engineering News and Updates" type="rss" xmlUrl="https://githubengineering.com/atom.xml" htmlUrl="http://githubengineering.com/"/>
+<outline text="Node.js Blog" title="Node.js Blog" type="rss" xmlUrl="http://blog.nodejs.org/feed/" htmlUrl="http://blog.nodejs.org/"/>
+<outline text="pnpm Blog" title="pnpm Blog" type="rss" xmlUrl="https://pnpm.io/blog/rss.xml" htmlUrl="https://pnpm.io/blog"/>
+<outline text="Чудес не бывает или я ошибаюсь?" title="Чудес не бывает или я ошибаюсь?" type="rss" xmlUrl="http://maxshulga-ru.blogspot.com/feeds/posts/default" htmlUrl="http://www.maxshulga.ru/"/>
+<outline text="Martin Fowler" title="Martin Fowler" type="rss" xmlUrl="http://martinfowler.com/feed.atom" htmlUrl="http://martinfowler.com/"/>
+<outline text="Dmitry Soshnikov" title="Dmitry Soshnikov" type="rss" xmlUrl="http://dmitrysoshnikov.com/feed/" htmlUrl="http://dmitrysoshnikov.com/"/>
+<outline text="Блог Саши Беспоясова" title="Блог Саши Беспоясова" type="rss" xmlUrl="http://bespoyasov.ru/rss" htmlUrl="http://bespoyasov.ru/rss"/>
+</outline>
+</body>
+</opml>

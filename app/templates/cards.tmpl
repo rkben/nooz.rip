@@ -1,0 +1,25 @@
+{% for article in articles %}
+{% if loop.last %}
+<div
+  class="card"
+  hx-get="/articles/{{ page }}"
+  hx-trigger="revealed"
+  hx-swap="afterend"
+>
+{% else %}
+  <div class="card">
+{% endif %}
+    <img
+      style="height: 260px; width: 100%; object-fit: cover;"
+      src="{{ article.banner_img }}"
+      alt="{{ article.title }}"
+    />
+    <div class="container">
+      <h2><a href="/{{ article.url }}">{{ article.title }}</a></h2>
+      <h3>{{ article.source_name }}</h3>
+      <p>{{ article.summary }}</p>
+      <p><a href="/{{ article.url }}">read this nooz</a></p>
+    </div>
+  </div>
+  {% endfor %}
+</div>

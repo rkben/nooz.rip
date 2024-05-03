@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>OPML export</title>
+  </head>
+  <body>
+    <outline text="Forums - IT Security" title="Forums - IT Security">
+      <outline text="/r/netsec - Information Security News &amp; Discussion" title="/r/netsec - Information Security News &amp; Discussion" type="rss" xmlUrl="http://www.reddit.com/r/netsec/.rss" htmlUrl="http://www.reddit.com/r/netsec/"/>
+      <outline text="IT Security - Hot Weekly Questions" title="IT Security - Hot Weekly Questions" type="rss" xmlUrl="http://security.stackexchange.com/feeds/week" htmlUrl="http://security.stackexchange.com/questions"/>
+    </outline>
+    <outline text="Forums - General IT" title="Forums - General IT">
+      <outline text="Hot Monthly Questions" title="Hot Monthly Questions" type="rss" xmlUrl="http://networkengineering.stackexchange.com/feeds/month" htmlUrl="http://networkengineering.stackexchange.com/questions"/>
+      <outline text="Unix/Linux - Hot Monthly Questions" title="Unix/Linux - Hot Monthly Questions" type="rss" xmlUrl="http://unix.stackexchange.com/feeds/month" htmlUrl="http://unix.stackexchange.com/questions"/>
+      <outline text="/r/sysadmin - Sysadmin" title="/r/sysadmin - Sysadmin" type="rss" xmlUrl="http://www.reddit.com/r/sysadmin/.rss" htmlUrl="http://www.reddit.com/r/sysadmin/"/>
+    </outline>
+    <outline text="Advisories/Alerts - IT Security" title="Advisories/Alerts - IT Security">
+      <outline text="CERT Advisories" title="CERT Advisories" type="rss" xmlUrl="http://seclists.org/rss/cert.rss" htmlUrl="http://seclists.org/#cert"/>
+      <outline text="Center for Internet Security - Multi-State Information Sharing and Analysis Center" title="Center for Internet Security - Multi-State Information Sharing and Analysis Center" type="rss" xmlUrl="https://www.cisecurity.org/feed/advisories" htmlUrl="https://www.cisecurity.org/"/>
+      <outline text="ASD - Alerts" title="ASD - Alerts" type="rss" xmlUrl="https://www.cyber.gov.au/rss/alerts" htmlUrl="https://www.cyber.gov.au/"/>
+      <outline text="ASD - Advisories" title="ASD - Advisories" type="rss" xmlUrl="https://www.cyber.gov.au/rss/advisories" htmlUrl="https://www.cyber.gov.au/"/>
+    </outline>
+    <outline text="Blogs/News - IT Security" title="Blogs/News - IT Security">
+      <outline text="ImperialViolet" title="ImperialViolet" type="rss" xmlUrl="https://www.imperialviolet.org/iv-rss.xml" htmlUrl="http://www.imperialviolet.org/"/>
+      <outline text="cybersmashup" title="cybersmashup" type="rss" xmlUrl="https://research.kudelskisecurity.com/feed/" htmlUrl="https://research.kudelskisecurity.com/"/>
+      <outline text="Uncommon Sense Security" title="Uncommon Sense Security" type="rss" xmlUrl="http://blog.uncommonsensesecurity.com/feeds/posts/default" htmlUrl="http://blog.uncommonsensesecurity.com/"/>
+      <outline type="rss" text="Dark Reading:" title="Dark Reading:" xmlUrl="http://www.darkreading.com/rss/all.xml" htmlUrl="http://www.darkreading.com"/>
+      <outline text="Daemonic Dispatches" title="Daemonic Dispatches" type="rss" xmlUrl="http://www.daemonology.net/blog/index.rss" htmlUrl="http://www.daemonology.net/blog/"/>
+      <outline text="Schneier on Security" title="Schneier on Security" type="rss" xmlUrl="http://feeds.feedburner.com/schneier/fulltext" htmlUrl="https://www.schneier.com/blog/"/>
+      <outline text="Trail of Bits Blog" title="Trail of Bits Blog" type="rss" xmlUrl="http://blog.trailofbits.com/feed/" htmlUrl="http://blog.trailofbits.com/"/>
+      <outline text="Irongeek's Security Site" title="Irongeek's Security Site" type="rss" xmlUrl="http://feeds.feedburner.com/IrongeeksSecuritySite" htmlUrl="http://www.irongeek.com/"/>
+      <outline type="rss" text="MalwareTech" title="MalwareTech" xmlUrl="https://www.malwaretech.com/feed/" htmlUrl="https://www.malwaretech.com"/>
+      <outline text="Errata Security" title="Errata Security" type="rss" xmlUrl="http://blog.erratasec.com/feeds/posts/default" htmlUrl="http://blog.erratasec.com/"/>
+      <outline text="SkullSecurity" title="SkullSecurity" type="rss" xmlUrl="http://www.skullsecurity.org/blog/feed" htmlUrl="https://blog.skullsecurity.org/"/>
+      <outline text="chrisbrenton.org" title="chrisbrenton.org" type="rss" xmlUrl="http://feeds.feedburner.com/chrisbrenton/VcDP" htmlUrl="http://www.chrisbrenton.org/"/>
+      <outline text="Project Zero" title="Project Zero" type="rss" xmlUrl="http://googleprojectzero.blogspot.com/feeds/posts/default" htmlUrl="http://googleprojectzero.blogspot.com/"/>
+      <outline text="Blog Posts – Postmodern Security" title="Blog Posts – Postmodern Security" type="rss" xmlUrl="http://postmodernsecurity.com/category/blog-posts/feed/" htmlUrl="https://postmodernsecurity.com"/>
+      <outline text="Hacker News ≈ Packet Storm" title="Hacker News ≈ Packet Storm" type="rss" xmlUrl="http://rss.packetstormsecurity.com/news/tags/hacker/" htmlUrl="http://packetstormsecurity.com/"/>
+      <outline text="Krebs on Security" title="Krebs on Security" type="rss" xmlUrl="https://krebsonsecurity.com/feed/" htmlUrl="https://krebsonsecurity.com/"/>
+      <outline type="rss" text="Tech Anarchy" title="Tech Anarchy" xmlUrl="https://techanarchy.net/feed/" htmlUrl="https://techanarchy.net"/>
+      <outline type="rss" text="Darknet Diaries" title="Darknet Diaries" xmlUrl="http://feeds.feedburner.com/DarknetDiaries" htmlUrl="https://darknetdiaries.com/"/>
+      <outline text="Bleeping Computer News" title="Bleeping Computer News" type="rss" xmlUrl="https://www.bleepingcomputer.com/feed/" htmlUrl="https://www.bleepingcomputer.com/"/>
+      <outline text="Threatpost" title="Threatpost" type="rss" xmlUrl="https://threatpost.com/feed/" htmlUrl="https://threatpost.com/"/>
+      <outline text="Google Research Blog" title="Google Research Blog" type="rss" xmlUrl="http://feeds.feedburner.com/blogspot/gJZg" htmlUrl="http://googleresearch.blogspot.com/"/>
+      <outline text="nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format" title="nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format" type="rss" xmlUrl="http://feeds.cyberciti.biz/Nixcraft-LinuxFreebsdSolarisTipsTricks" htmlUrl="http://www.cyberciti.biz/"/>
+      <outline text="doublepulsar" title="doublepulsar" type="rss" xmlUrl="https://doublepulsar.com/feed" htmlUrl="https://doublepulsar.com/"/>
+    </outline>
+  </body>
+</opml>

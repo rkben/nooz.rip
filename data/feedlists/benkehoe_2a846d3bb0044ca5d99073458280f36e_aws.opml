@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>AWS RSS feeds 2019-04-22</title>
+    </head>
+    <body>
+        <outline text="AWS" title="AWS">
+            <outline type="rss" text="Infrastructure &amp; Automation" title="Infrastructure &amp; Automation" xmlUrl="https://aws.amazon.com/blogs/infrastructure-and-automation/feed/" htmlUrl="https://aws.amazon.com/blogs/infrastructure-and-automation/"/>
+            <outline type="rss" text="AWS Developer Blog" title="AWS Developer Blog" xmlUrl="http://feeds.feedburner.com/AwsDeveloperBlog" htmlUrl="https://aws.amazon.com/blogs/developer/"/>
+            <outline type="rss" text="What's New" title="What's New" xmlUrl="https://aws.amazon.com/about-aws/whats-new/recent/feed/" htmlUrl="https://aws.amazon.com/new/"/>
+            <outline type="rss" text="Amazon API Gateway Release Notes" title="Amazon API Gateway Release Notes" xmlUrl="https://docs.aws.amazon.com/apigateway/latest/developerguide/amazon-apigateway-release-notes.rss" htmlUrl="https://docs.aws.amazon.com/apigateway/latest/developerguide/"/>
+            <outline type="rss" text="AWS Big Data Blog" title="AWS Big Data Blog" xmlUrl="http://blogs.aws.amazon.com/bigdata/blog/feed/recentPosts.rss" htmlUrl="https://aws.amazon.com/blogs/big-data/"/>
+            <outline type="rss" text="AWS Official Blog" title="AWS Official Blog" xmlUrl="https://aws.amazon.com/blogs/aws/feed" htmlUrl="https://aws.amazon.com/blogs/aws/"/>
+            <outline type="rss" text="AWS CloudFormation Release Notes" title="AWS CloudFormation Release Notes" xmlUrl="https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-cloudformation-release-notes.rss" htmlUrl="https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/"/>
+            <outline type="rss" text="Security Bulletins" title="Security Bulletins" xmlUrl="https://aws.amazon.com/security/security-bulletins/feed" htmlUrl="https://aws.amazon.com/security/security-bulletins/"/>
+            <outline type="rss" text="AWS Machine Learning Blog" title="AWS Machine Learning Blog" xmlUrl="http://feeds.feedburner.com/amazon/AWSAI" htmlUrl="https://aws.amazon.com/blogs/machine-learning/"/>
+            <outline type="rss" text="Lambda docs" title="Lambda docs" xmlUrl="https://docs.aws.amazon.com/lambda/latest/dg/lambda-updates.rss" htmlUrl="https://docs.aws.amazon.com/lambda/latest/dg/"/>
+            <outline type="rss" text="Internet of Things" title="Internet of Things" xmlUrl="https://aws.amazon.com/blogs/iot/feed" htmlUrl="https://aws.amazon.com/blogs/iot/"/>
+            <outline type="rss" text="Amazon S3 Developer Guide RSS Feed" title="Amazon S3 Developer Guide RSS Feed" xmlUrl="https://docs.aws.amazon.com/AmazonS3/latest/dev/s3-dev-guide-rss-updates.rss" htmlUrl="https://docs.aws.amazon.com/AmazonS3/latest/dev/"/>
+            <outline type="rss" text="AWS IAM Release Notes" title="AWS IAM Release Notes" xmlUrl="https://docs.aws.amazon.com/IAM/latest/UserGuide/aws-iam-release-notes.rss" htmlUrl="https://docs.aws.amazon.com/IAM/latest/UserGuide/"/>
+            <outline type="rss" text="AWS Security Blog" title="AWS Security Blog" xmlUrl="http://blogs.aws.amazon.com/security/blog/feed/recentPosts.rss" htmlUrl="https://aws.amazon.com/blogs/security/"/>
+            <outline type="rss" text="AWS Appl Mgmt Blog" title="AWS Appl Mgmt Blog" xmlUrl="https://blogs.aws.amazon.com/application-management/blog/feed/recentPosts.rss" htmlUrl="https://aws.amazon.com/blogs/devops/"/>
+            <outline type="rss" text="AWS Compute Blog" title="AWS Compute Blog" xmlUrl="http://feeds.feedburner.com/AwsComputeBlog" htmlUrl="https://aws.amazon.com/blogs/compute/"/>
+        </outline>
+    </body>
+</opml>
