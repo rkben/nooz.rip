@@ -5,15 +5,15 @@ from pydantic_settings import BaseSettings
 
 
 class Settings(BaseSettings):
-    DB: str = "db.sqlite3"
-    HOST: IPvAnyAddress
-    PORT: int
-    DEBUG: bool = False
+    DB: str = "nooz.db"
+    HOST: IPvAnyAddress = "0.0.0.0"
+    PORT: int = 9100
+    DEBUG: bool = True
     JSON_LOGS: bool = False
     RELOAD: bool = True if DEBUG else False
 
     class Config:
-        env_file = "./.env"  # if is_dbg else "./.env"
+        env_file = "./.env" or None # if is_dbg else "./.env"
 
 
 @lru_cache
