@@ -5,6 +5,7 @@ description = "the nooz"
 authors = ["Richard Benson <richard@rkben.dev>"]
 license = "MIT"
 readme = "README.md"
+package-mode = false
 
 [tool.poetry.dependencies]
 trafilatura = {extras = ["all"], version = "^1.6.2"}
