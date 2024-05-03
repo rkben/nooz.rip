@@ -9,6 +9,7 @@ class Settings(BaseSettings):
     HOST: IPvAnyAddress = "0.0.0.0"
     PORT: int = 9100
     DEBUG: bool = True
+    WRITE_DB: bool = True
     JSON_LOGS: bool = False
     RELOAD: bool = True if DEBUG else False
 

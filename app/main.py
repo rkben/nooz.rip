@@ -12,6 +12,7 @@ from lib import article, schema
 from settings import settings
 
 current_dir = Path(__file__).parent
+data_dir = (current_dir.parent / "data")
 templates = Jinja2Templates(directory=str(current_dir / "templates"))
 
 
@@ -31,7 +32,7 @@ if settings.DEBUG:
 
 register_tortoise(
     app,
-    db_url="sqlite://{}".format(str(current_dir / "nooz.db")),
+    db_url="sqlite://{}".format(str(data_dir / settings.DB)),
     modules={"models": ["lib.schema"]},
     generate_schemas=True,
     add_exception_handlers=True,
@@ -71,8 +72,7 @@ async def article_by_url(request: Request, url: str):
     the_article = await schema.Article.get_or_none(url=url).all().first()
     if the_article is None:
         the_article = await article.new_article(url=url)
-    if the_article.errors is False:
-        # TODO: DEBUG=True, pass
+    if the_article.errors is False and settings.WRITE_DB:
         await the_article.save()
     return templates.TemplateResponse(
         "article.tmpl", {"request": request, "article": the_article}
